@@ -1,1 +1,31 @@
-{}
+{
+  "remotive:1680495": {
+    "company": "Coalition Technologies ",
+    "cover_letter": false,
+    "first_seen": "2026-08-11",
+    "gaps": [
+      "quickbooks"
+    ],
+    "key": "remotive:1680495",
+    "last_seen": "2026-08-11",
+    "location": "Worldwide",
+    "match_reasons": [
+      "operations",
+      "administrative",
+      "process",
+      "calendar",
+      "project",
+      "google workspace",
+      "excel",
+      "spreadsheet",
+      "events"
+    ],
+    "published": "2026-07-11T20:18:11",
+    "salary": "$31,2k- $52k",
+    "score": 45,
+    "source": "remotive",
+    "status": "new",
+    "title": "Remote Office Assistant",
+    "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495"
+  }
+}
