@@ -1,0 +1,103 @@
+# Fabrizio De Luca Marocchi - job pipeline config
+# Everything here is tunable. Change and re-run; no code edits needed.
+
+profile_path: data/profile.md
+
+# Target job titles (case-insensitive). A title match gives a scoring bonus.
+target_titles:
+  - operations coordinator
+  - operations assistant
+  - project coordinator
+  - virtual assistant
+  - executive assistant
+  - executive operations
+  - operations manager
+  - administrative
+  - project support
+
+# keyword: weight  (matched against title + description + tags)
+keywords:
+  operations: 3
+  coordination: 3
+  coordinator: 3
+  administrative: 2
+  workflow: 2
+  process: 2
+  scheduling: 2
+  calendar: 2
+  inventory: 2
+  supplier: 2
+  vendor: 2
+  stakeholder: 2
+  documentation: 2
+  project: 2
+  "virtual assistant": 3
+  "executive assistant": 3
+  notion: 1
+  "google workspace": 1
+  excel: 1
+  spreadsheet: 1
+  asana: 1
+  slack: 1
+  trello: 1
+  clickup: 1
+  crm: 1
+  portuguese: 2
+  spanish: 1
+  bilingual: 1
+  "customer service": 1
+  "customer success": 1
+  hospitality: 1
+  events: 1
+
+# Keep a job only if its required location matches one of these (substring match).
+# Empty / worldwide / anywhere / global always pass.
+region_allow:
+  - worldwide
+  - anywhere
+  - global
+  - latin america
+  - latam
+  - south america
+  - americas
+  - argentina
+
+thresholds:
+  min_match: 22      # below this: ignored entirely
+  high_match: 50     # at/above this: flagged HIGH + cover-letter draft
+
+# If a job description mentions these tools, flag them (ties into the skills map)
+tools_watchlist:
+  - asana
+  - slack
+  - hubspot
+  - salesforce
+  - zendesk
+  - intercom
+  - looker
+  - quickbooks
+  - jira
+  - monday.com
+  - zoom
+  - microsoft teams
+  - clickup
+
+sources:
+  # Remotive: clean public JSON API, one call per search term.
+  remotive_terms:
+    - operations
+    - virtual assistant
+    - project coordinator
+    - executive assistant
+  # RemoteOK: public JSON feed, filtered locally by keywords/region.
+  remoteok: true
+
+cover_letters:
+  enabled: true            # only actually runs if ANTHROPIC_API_KEY is set
+  model: claude-sonnet-5   # change if you prefer another model string
+  max_per_run: 5           # cap drafts per run to control API cost
+
+digest:
+  title: "Fabrizio - Job Pipeline"
+  max_items: 25
+  stale_after_days: 14     # jobs not seen in this many days get marked stale
