@@ -1,4 +1,4 @@
-# Fabrizio De Luca Marocchi - job pipeline config (v2)
+# Fabrizio De Luca Marocchi - job pipeline config (v3)
 profile_path: data/profile.md
 
 target_titles:
@@ -11,13 +11,18 @@ target_titles:
   - operations manager
   - administrative
   - project support
+  - asistente virtual
+  - coordinador
+  - operaciones
 
-# keyword: weight (matched against title + description + tags)
 keywords:
   operations: 3
+  operaciones: 3
   coordination: 3
   coordinator: 3
+  coordinador: 2
   administrative: 2
+  administrativo: 2
   workflow: 2
   process: 2
   scheduling: 2
@@ -29,6 +34,7 @@ keywords:
   documentation: 2
   project: 2
   "virtual assistant": 3
+  "asistente virtual": 3
   "executive assistant": 3
   notion: 1
   "google workspace": 1
@@ -42,16 +48,19 @@ keywords:
   portuguese: 2
   spanish: 1
   bilingual: 1
+  bilingüe: 1
   "customer service": 1
   "customer success": 1
+  "atención al cliente": 1
   hospitality: 1
   events: 1
 
-# NEW in v2: if ANY of these appear in the job TITLE, the job is dropped.
-# This kills the tech/engineering noise (e.g. "Tier III Service Desk Engineer").
 exclude_titles:
   - engineer
+  - ingeniero
   - developer
+  - desarrollador
+  - programador
   - programmer
   - software
   - "full stack"
@@ -69,14 +78,18 @@ exclude_titles:
   - "data engineer"
   - "machine learning"
   - designer
-  - architect          # avoids "software architect"; Fabrizio's arch roles are separate
+  - diseñador
+  - architect
   - accountant
+  - contador
   - bookkeeper
   - nurse
   - lawyer
+  - abogado
   - "sales development"
   - sdr
   - recruiter
+  - reclutador
 
 region_allow:
   - worldwide
@@ -89,8 +102,8 @@ region_allow:
   - argentina
 
 thresholds:
-  min_match: 35      # raised from 22 -> less low-signal noise
-  high_match: 55     # raised from 50
+  min_match: 35
+  high_match: 55
 
 tools_watchlist:
   - asana
@@ -108,7 +121,7 @@ tools_watchlist:
   - clickup
 
 sources:
-  # Generalist aggregators (public JSON).
+  # --- Aggregators (public APIs / RSS) ---
   remotive_terms:
     - operations
     - virtual assistant
@@ -116,17 +129,38 @@ sources:
     - executive assistant
   remoteok: true
 
-  # NEW in v2: per-company ATS boards (much higher signal, much less tech noise).
-  # The slug is the path segment in a job URL:
-  #   jobs.ashbyhq.com/<SLUG>/...        -> ashby
-  #   boards.greenhouse.io/<SLUG>/...    -> greenhouse
-  #   jobs.lever.co/<SLUG>/...           -> lever
-  # Add the companies Fabrizio actually targets. A wrong/dead slug is skipped safely.
+  # Jobicy: pulls whole geo buckets, scoring filters afterwards.
+  jobicy_geos:
+    - latin-america
+    - anywhere
+
+  # Himalayas: verified-remote board, searched by keyword.
+  himalayas_terms:
+    - operations
+    - virtual assistant
+    - project coordinator
+    - executive assistant
+    - administrative
+
+  # Get on Board: LATAM-focused, searched in Spanish + English (remote only).
+  getonbrd_terms:
+    - operaciones
+    - asistente virtual
+    - coordinador
+    - asistente administrativo
+    - operations
+
+  # We Work Remotely: category RSS feeds most relevant to ops/VA.
+  wwr_feeds:
+    - "https://weworkremotely.com/categories/remote-customer-support-jobs.rss"
+    - "https://weworkremotely.com/categories/remote-management-and-finance-jobs.rss"
+
+  # --- Per-company ATS boards (add the slugs Fabrizio targets) ---
   ashby:
-    - "marcohire"            # from the tracker (Marco)
-    - "scale Army Careers"   # from the tracker (Scale Army)
-  greenhouse: []             # e.g. ["remote", "gitlab"]  (verify the slug first)
-  lever: []                  # e.g. ["someco"]
+    - "marcohire"
+    - "scale Army Careers"
+  greenhouse: []
+  lever: []
 
 cover_letters:
   enabled: true

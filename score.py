@@ -47,15 +47,19 @@ def score_job(job, cfg):
 
 
 def evaluate(jobs, cfg):
-    """Return list of (job, score, reasons, gaps) passing exclusion + region + min_match."""
+    """Return list of (job, score, reasons, gaps) passing exclusion + region + min_match.
+    Per-company ATS boards (ashby/greenhouse/lever) skip the region filter: if Fabrizio
+    is monitoring that company, he wants to see all its remote roles and judge himself.
+    """
     region_allow = [a.lower() for a in cfg.get("region_allow", [])]
     exclude_titles = [e.lower() for e in cfg.get("exclude_titles", [])]
     min_match = cfg["thresholds"]["min_match"]
+    ats_sources = {"ashby", "greenhouse", "lever"}
     results = []
     for j in jobs:
         if excluded(j, exclude_titles):
             continue
-        if not region_ok(j.get("location", ""), region_allow):
+        if j.get("source") not in ats_sources and not region_ok(j.get("location", ""), region_allow):
             continue
         score, reasons, gaps = score_job(j, cfg)
         if score < min_match:
