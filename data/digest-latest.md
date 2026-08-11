@@ -1,6 +1,139 @@
 # Fabrizio - Job Pipeline - daily digest (2026-08-11)
 
-_No new matches today. Existing open roles below._
+## New HIGH matches (18)
+- **[100 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
+    - tools required: asana
+- **[96 HIGH] Executive Operations Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/a7467218-4e4b-4f8b-9ff6-423ff1f60d2d
+    - tools required: zoom, microsoft teams
+- **[93 HIGH] Executive Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/b13091e9-0c6b-4f96-abdf-a63ebf1a976c
+    - tools required: asana
+- **[93 HIGH] Operations Executive Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/9b8948bf-a202-42aa-b98f-136a1d19e358
+    - tools required: hubspot, salesforce, zoom
+- **[90 HIGH] Ops & Social Media Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/3176c68d-131b-4640-b916-b4390ba21e67
+- **[87 HIGH] Operations Coordinator** - marcohire | Remote
+    - https://jobs.ashbyhq.com/marcohire/25326a69-866d-413d-ab92-33cc48d2eb5b
+    - tools required: asana, clickup
+- **[87 HIGH] Senior Operations Coordinator – 3rd Party Logistics** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/d77fc3cd-8ddd-4ff3-98d2-5f98805c8dd9
+- **[84 HIGH] Marketing Operations & Administrative Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/361ee084-f112-44a5-9d20-5f4900011e4e
+    - tools required: hubspot, zoom
+- **[84 HIGH] Flight Operations Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/1a9876c8-b351-4a81-9fca-81d7526d28c7
+- **[84 HIGH] Sales Operations Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/5f60b030-bd78-4138-a363-ed59ec5aebf0
+    - tools required: hubspot
+- **[75 HIGH] Maintenance Ops Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/abf88096-ca6d-4789-8589-a2d9e228ccb8
+- **[69 HIGH] Operations Manager, Bermuda** - Coinbase | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/coinbase-operations-manager-bermuda
+- **[63 HIGH] Social Media & Content Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/9e829a96-a4ff-4ac7-b682-9c9c35709b95
+    - tools required: asana, monday.com, clickup
+- **[63 HIGH] Executive & Ops Assistant ** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/2b383035-af46-466b-b614-fd8de8700898
+- **[63 HIGH] Ecommerce Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/1d61fa6e-2508-4495-8b6f-16d042a4dc4f
+- **[60 HIGH] Executive Assistant** -  | Latin America Remote | 1500-2500 USD
+    - https://www.getonbrd.com/jobs/executive-assistant-enchant-real-estate-group-remote
+- **[57 HIGH] Customer Operations & Implementation Manager** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/df1df37f-e05a-42f6-b553-809ddbd901a3
+    - tools required: hubspot
+- **[57 HIGH] Marketing and AI Project Manager** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/0185d2bb-5573-4790-9a50-4782e9fa6b7f
+    - tools required: asana, monday.com, clickup
+
+## New other matches (33)
+- **[54 HIGH] Customer Journey and CRM Manager (UK Fixed Term Contract for a Maternity Cover) - Immediate Start** - Aethos | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/aethos-customer-journey-and-crm-manager-uk-fixed-term-contract-for-a-maternity-cover
+- **[54 HIGH] Director - Executive Sales Officer - Flagstar Financial & Leasing (Technology Vendor)** - Flagstar Bank | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/flagstar-bank-director-executive-sales-officer-flagstar-financial-leasing-technology-vendor
+- **[54 HIGH] Marketing Associate** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/57191548-3ef0-4f80-9b92-3685d63facc0
+- **[54 HIGH] Revenue Operations Analyst** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/a2fe42e7-85b8-47ce-accb-f7a4c9114f3c
+    - tools required: hubspot
+- **[51 HIGH] Onboarding Implementation Manager** -  | Latin America Remote
+    - https://www.getonbrd.com/jobs/onboarding-implementation-manager-autoraptor-remote
+    - tools required: hubspot
+- **[51 HIGH] Manager, Technical Support** - Twilio | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/twilio-manager-technical-support
+    - tools required: zendesk, looker
+- **[48 match] Meta Ads Specialist** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/c7161b6f-5f12-4a32-ab69-318ecf87caf9
+    - tools required: asana, clickup
+- **[48 match] Performance Marketing & Looker Studio Analyst** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/48d5f0a9-97f5-4a77-ab13-7bc7815e47ff
+    - tools required: looker
+- **[48 match] AI Implementation Specialist (Automation & Client Solutions) | Part-time** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/aa5a8042-d2ba-4c2d-b4ea-d8a3fc77e5b4
+- **[45 match] Senior Revenue Operations Strategist** - Kuno Creative Group, Inc. | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/kuno-creative-group-inc-senior-revenue-operations-strategist
+    - tools required: slack, hubspot, salesforce, zoom
+- **[45 match] Senior Sales Operations Manager - Japan** - Dropbox | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/dropbox-senior-sales-operations-manager-japan
+- **[45 match] Campaign Manager** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/8599471d-d8f7-45ed-8efd-f74e896686e1
+    - tools required: hubspot
+- **[45 match] Senior Account Manager (3PL & Logistics)** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/197a37ac-423f-409a-997d-d8a4a3f63730
+- **[42 match] Client Success Manager** - Bright! Tax | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/bright-tax-client-success-manager
+    - tools required: hubspot
+- **[42 match] Global Payroll Manager** - Airtable | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/airtable-global-payroll-manager
+- **[39 match] Revenue Cycle Management (Rcm) Consultant** -  | Latin America Remote
+    - https://www.getonbrd.com/jobs/rcm-consultant-autoraptor-remote
+- **[39 match] Accounting & Operations Assistant** -  | Latin America Remote | 2600-3800 USD
+    - https://www.getonbrd.com/jobs/accounting-operations-assistant-commerce-theory-remote
+    - tools required: quickbooks
+- **[39 match] Implementation Specialist (Variable Ops experience required)** - Tekion | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/tekion-implementation-specialist-variable-ops-experience-required
+- **[39 match] IT Maintenance and Support Expert | Digital&IPA (freelance)** - PricewaterhouseCoopers | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/pricewaterhousecoopers-it-maintenance-and-support-expert-digital-ipa-freelance
+    - tools required: jira
+- **[39 match] Financial AI Automation Specialist** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/5c280bcd-d621-4ba7-a8f8-cae25b6d60f2
+- **[39 match] Social Media & Community Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/f0283078-8f99-4eba-8d8d-336616822c27
+    - tools required: slack, monday.com
+- **[36 match] Asistente Administrativo** -  | Latin America Remote | 200-300 USD
+    - https://www.getonbrd.com/jobs/asistente-administrativo-remoto-aba-remote
+- **[36 match] Customer Service Representative / Csr** -  | Latin America Remote | 900-1350 USD
+    - https://www.getonbrd.com/jobs/customer-service-representative-csr-puente-talent-partners-remote-7037
+- **[36 match] Client Success Coordinator LATAM** -  | Latin America Remote | 1000-1500 USD
+    - https://www.getonbrd.com/jobs/client-success-coordinator-latam-remote-egelloc-corporation-remote-7421
+    - tools required: slack, zoom, clickup
+- **[36 match] Accounting Manager, GL Operations & Intercompany** - Coinbase | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/coinbase-accounting-manager-gl-operations-intercompany
+    - tools required: intercom, looker
+- **[36 match] Sr. Manager, CRM Operations** - DaVita | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/davita-sr-manager-crm-operations
+    - tools required: salesforce
+- **[36 match] Senior Manager, CRM Medical Affairs, EU/NM** - BeiGene | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/beigene-senior-manager-crm-medical-affairs-eu-nm
+- **[36 match] Strategy and Operations Lead, Deal Pricing** - Stripe | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/stripe-strategy-and-operations-lead-deal-pricing
+    - tools required: salesforce
+- **[36 match] Mid-Senior PPC Specialist** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/a10123f1-0257-4c21-9af6-85441991e48c
+    - tools required: asana, slack, hubspot, salesforce
+- **[36 match] Sales Manager** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/bde86a5f-e2ea-4d33-a033-3121eb1a0bf0
+    - tools required: hubspot
+- **[36 match] Sales Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/3577f58e-d17a-4f73-bbf0-b4c1b22dfc6b
+    - tools required: salesforce
+- **[36 match] Manhattan WMS Specialist** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/67b3f164-fb8b-4afe-90c9-54d3b6ee7a36
+- **[36 match] Senior FP&A Analyst** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/ee933ced-c702-4486-86de-fbfc1bb8b408
+    - tools required: quickbooks
 
 ## Still open - not yet applied (1)
 - **[45 match] Remote Office Assistant** - Coalition Technologies  | Worldwide | $31,2k- $52k
