@@ -1,7 +1,7 @@
-"""Transparent keyword scoring against Fabrizio's profile + region eligibility."""
+"""Transparent keyword scoring against Fabrizio's profile + region + exclusions."""
 from .util import norm
 
-# Locations that clearly restrict OUT (used only to be safe when nothing matches allow)
+
 def region_ok(location, region_allow):
     loc = norm(location)
     if not loc:
@@ -13,6 +13,12 @@ def region_ok(location, region_allow):
         if allow in loc:
             return True
     return False
+
+
+def excluded(job, exclude_titles):
+    """v2: drop the job if any exclude term appears in its TITLE."""
+    title = norm(job.get("title", ""))
+    return any(x in title for x in exclude_titles)
 
 
 def score_job(job, cfg):
@@ -41,12 +47,19 @@ def score_job(job, cfg):
 
 
 def evaluate(jobs, cfg):
-    """Return list of (job, score, reasons, gaps) that pass region + min_match."""
+    """Return list of (job, score, reasons, gaps) passing exclusion + region + min_match.
+    Per-company ATS boards (ashby/greenhouse/lever) skip the region filter: if Fabrizio
+    is monitoring that company, he wants to see all its remote roles and judge himself.
+    """
     region_allow = [a.lower() for a in cfg.get("region_allow", [])]
+    exclude_titles = [e.lower() for e in cfg.get("exclude_titles", [])]
     min_match = cfg["thresholds"]["min_match"]
+    ats_sources = {"ashby", "greenhouse", "lever"}
     results = []
     for j in jobs:
-        if not region_ok(j.get("location", ""), region_allow):
+        if excluded(j, exclude_titles):
+            continue
+        if j.get("source") not in ats_sources and not region_ok(j.get("location", ""), region_allow):
             continue
         score, reasons, gaps = score_job(j, cfg)
         if score < min_match:
