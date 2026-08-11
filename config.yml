@@ -1,9 +1,6 @@
-# Fabrizio De Luca Marocchi - job pipeline config
-# Everything here is tunable. Change and re-run; no code edits needed.
-
+# Fabrizio De Luca Marocchi - job pipeline config (v2)
 profile_path: data/profile.md
 
-# Target job titles (case-insensitive). A title match gives a scoring bonus.
 target_titles:
   - operations coordinator
   - operations assistant
@@ -15,7 +12,7 @@ target_titles:
   - administrative
   - project support
 
-# keyword: weight  (matched against title + description + tags)
+# keyword: weight (matched against title + description + tags)
 keywords:
   operations: 3
   coordination: 3
@@ -50,8 +47,37 @@ keywords:
   hospitality: 1
   events: 1
 
-# Keep a job only if its required location matches one of these (substring match).
-# Empty / worldwide / anywhere / global always pass.
+# NEW in v2: if ANY of these appear in the job TITLE, the job is dropped.
+# This kills the tech/engineering noise (e.g. "Tier III Service Desk Engineer").
+exclude_titles:
+  - engineer
+  - developer
+  - programmer
+  - software
+  - "full stack"
+  - "full-stack"
+  - backend
+  - "back end"
+  - frontend
+  - "front end"
+  - devops
+  - "service desk"
+  - technician
+  - "it support"
+  - "help desk"
+  - "data scientist"
+  - "data engineer"
+  - "machine learning"
+  - designer
+  - architect          # avoids "software architect"; Fabrizio's arch roles are separate
+  - accountant
+  - bookkeeper
+  - nurse
+  - lawyer
+  - "sales development"
+  - sdr
+  - recruiter
+
 region_allow:
   - worldwide
   - anywhere
@@ -63,10 +89,9 @@ region_allow:
   - argentina
 
 thresholds:
-  min_match: 22      # below this: ignored entirely
-  high_match: 50     # at/above this: flagged HIGH + cover-letter draft
+  min_match: 35      # raised from 22 -> less low-signal noise
+  high_match: 55     # raised from 50
 
-# If a job description mentions these tools, flag them (ties into the skills map)
 tools_watchlist:
   - asana
   - slack
@@ -83,21 +108,32 @@ tools_watchlist:
   - clickup
 
 sources:
-  # Remotive: clean public JSON API, one call per search term.
+  # Generalist aggregators (public JSON).
   remotive_terms:
     - operations
     - virtual assistant
     - project coordinator
     - executive assistant
-  # RemoteOK: public JSON feed, filtered locally by keywords/region.
   remoteok: true
 
+  # NEW in v2: per-company ATS boards (much higher signal, much less tech noise).
+  # The slug is the path segment in a job URL:
+  #   jobs.ashbyhq.com/<SLUG>/...        -> ashby
+  #   boards.greenhouse.io/<SLUG>/...    -> greenhouse
+  #   jobs.lever.co/<SLUG>/...           -> lever
+  # Add the companies Fabrizio actually targets. A wrong/dead slug is skipped safely.
+  ashby:
+    - "marcohire"            # from the tracker (Marco)
+    - "scale Army Careers"   # from the tracker (Scale Army)
+  greenhouse: []             # e.g. ["remote", "gitlab"]  (verify the slug first)
+  lever: []                  # e.g. ["someco"]
+
 cover_letters:
-  enabled: true            # only actually runs if ANTHROPIC_API_KEY is set
-  model: claude-sonnet-5   # change if you prefer another model string
-  max_per_run: 5           # cap drafts per run to control API cost
+  enabled: true
+  model: claude-sonnet-5
+  max_per_run: 5
 
 digest:
   title: "Fabrizio - Job Pipeline"
   max_items: 25
-  stale_after_days: 14     # jobs not seen in this many days get marked stale
+  stale_after_days: 14
