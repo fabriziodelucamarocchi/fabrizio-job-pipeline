@@ -470,6 +470,30 @@
     "title": "Campaign Manager",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/8599471d-d8f7-45ed-8efd-f74e896686e1"
   },
+  "ashby:86535948-3534-4aab-a7da-6ea12145d7e4": {
+    "company": "scale Army Careers",
+    "cover_letter": false,
+    "first_seen": "2026-08-12",
+    "gaps": [],
+    "key": "ashby:86535948-3534-4aab-a7da-6ea12145d7e4",
+    "last_seen": "2026-08-12",
+    "location": "Egypt",
+    "match_reasons": [
+      "operations",
+      "workflow",
+      "process",
+      "calendar",
+      "project",
+      "excel"
+    ],
+    "published": "2026-08-12T13:56:26.580+00:00",
+    "salary": "",
+    "score": 36,
+    "source": "ashby",
+    "status": "new",
+    "title": "Social Media Manager",
+    "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/86535948-3534-4aab-a7da-6ea12145d7e4"
+  },
   "ashby:9b8948bf-a202-42aa-b98f-136a1d19e358": {
     "company": "scale Army Careers",
     "cover_letter": false,
@@ -904,7 +928,7 @@
       "quickbooks"
     ],
     "key": "getonbrd:accounting-operations-assistant-commerce-theory-remote",
-    "last_seen": "2026-08-11",
+    "last_seen": "2026-08-12",
     "location": "Latin America Remote",
     "match_reasons": [
       "title~operations assistant",
@@ -927,7 +951,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "getonbrd:asistente-administrativo-remoto-aba-remote",
-    "last_seen": "2026-08-11",
+    "last_seen": "2026-08-12",
     "location": "Latin America Remote",
     "match_reasons": [
       "operations",
@@ -980,7 +1004,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "getonbrd:customer-service-representative-csr-puente-talent-partners-remote-7037",
-    "last_seen": "2026-08-11",
+    "last_seen": "2026-08-12",
     "location": "Latin America Remote",
     "match_reasons": [
       "operations",
@@ -1004,7 +1028,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "getonbrd:executive-assistant-enchant-real-estate-group-remote",
-    "last_seen": "2026-08-11",
+    "last_seen": "2026-08-12",
     "location": "Latin America Remote",
     "match_reasons": [
       "title~executive assistant",
@@ -1032,7 +1056,7 @@
       "hubspot"
     ],
     "key": "getonbrd:onboarding-implementation-manager-autoraptor-remote",
-    "last_seen": "2026-08-11",
+    "last_seen": "2026-08-12",
     "location": "Latin America Remote",
     "match_reasons": [
       "operations",
@@ -1059,7 +1083,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "getonbrd:rcm-consultant-autoraptor-remote",
-    "last_seen": "2026-08-11",
+    "last_seen": "2026-08-12",
     "location": "Latin America Remote",
     "match_reasons": [
       "operations",
