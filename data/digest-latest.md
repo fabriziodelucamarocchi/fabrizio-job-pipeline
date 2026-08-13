@@ -1,10 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-08-12)
+# Fabrizio - Job Pipeline - daily digest (2026-08-13)
 
-## New other matches (1)
-- **[36 match] Social Media Manager** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/86535948-3534-4aab-a7da-6ea12145d7e4
+_No new matches today. Existing open roles below._
 
-## Still open - not yet applied (52)
+## Still open - not yet applied (53)
 - **[100 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
     - tools required: asana
