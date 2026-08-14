@@ -1,6 +1,13 @@
-# Fabrizio - Job Pipeline - daily digest (2026-08-13)
+# Fabrizio - Job Pipeline - daily digest (2026-08-14)
 
-_No new matches today. Existing open roles below._
+## New other matches (3)
+- **[54 HIGH] Deal Operations Manager - Canada, Europe** - Storyblok | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/storyblok-deal-operations-manager-canada-europe
+    - tools required: salesforce
+- **[42 match] AI Operations & Automation Manager - Europe/LaTAM** - Storyblok | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/storyblok-ai-operations-automation-manager-europe-latam
+- **[42 match] Social Media Account Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/8a589b36-abdd-4e4d-a19d-98b03908684f
 
 ## Still open - not yet applied (53)
 - **[100 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
