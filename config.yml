@@ -1,60 +1,66 @@
-# Fabrizio De Luca Marocchi - job pipeline config (v3)
+# Fabrizio De Luca Marocchi - job pipeline config (v4 - molde VA/EA)
 profile_path: data/profile.md
 
+# --- Foco: Virtual / Executive Assistant, LATAM, ingles ESCRITO ---
 target_titles:
-  - operations coordinator
-  - operations assistant
-  - project coordinator
   - virtual assistant
   - executive assistant
-  - executive operations
-  - operations manager
-  - administrative
-  - project support
+  - executive operations assistant
+  - administrative assistant
+  - remote assistant
+  - personal assistant
+  - operations assistant
   - asistente virtual
-  - coordinador
-  - operaciones
+  - asistente ejecutivo
+  - asistente administrativo
 
 keywords:
-  operations: 3
-  operaciones: 3
+  # nucleo VA/EA
+  "virtual assistant": 4
+  "executive assistant": 4
+  "asistente virtual": 4
+  "administrative assistant": 3
+  "personal assistant": 3
+  assistant: 2
+  asistente: 2
+  # tareas tipicas de EA/VA
+  scheduling: 3
+  calendar: 3
+  "calendar management": 3
+  "inbox management": 3
+  email: 2
+  documentation: 2
   coordination: 3
-  coordinator: 3
-  coordinador: 2
+  coordinacion: 3
   administrative: 2
   administrativo: 2
-  workflow: 2
-  process: 2
-  scheduling: 2
-  calendar: 2
-  inventory: 2
-  supplier: 2
-  vendor: 2
-  stakeholder: 2
-  documentation: 2
-  project: 2
-  "virtual assistant": 3
-  "asistente virtual": 3
-  "executive assistant": 3
-  notion: 1
-  "google workspace": 1
+  organization: 2
+  "data entry": 2
+  travel: 1
+  # verde: trabajo escrito / async
+  "written english": 3
+  written: 2
+  async: 2
+  "asynchronous": 2
+  chat: 1
+  # herramientas de Fabri
+  notion: 2
+  "google workspace": 2
+  "google calendar": 2
   excel: 1
   spreadsheet: 1
-  asana: 1
-  slack: 1
   trello: 1
+  slack: 1
   clickup: 1
-  crm: 1
+  asana: 1
+  # plus reales
   portuguese: 2
-  spanish: 1
   bilingual: 1
-  bilingüe: 1
-  "customer service": 1
-  "customer success": 1
-  "atención al cliente": 1
-  hospitality: 1
-  events: 1
+  stable: 1
+  reliable: 1
+  "fast learner": 1
 
+# Si aparece en el TITULO, se descarta (tech + roles no-VA + señales de mucho telefono)
 exclude_titles:
   - engineer
   - ingeniero
@@ -66,9 +72,7 @@ exclude_titles:
   - "full stack"
   - "full-stack"
   - backend
-  - "back end"
   - frontend
-  - "front end"
   - devops
   - "service desk"
   - technician
@@ -78,7 +82,7 @@ exclude_titles:
   - "data engineer"
   - "machine learning"
   - designer
-  - diseñador
+  - disenador
   - architect
   - accountant
   - contador
@@ -90,6 +94,27 @@ exclude_titles:
   - sdr
   - recruiter
   - reclutador
+  - "cold caller"
+  - "cold calling"
+  - "call center"
+  - "phone sales"
+  - "inside sales"
+  - "outbound sales"
+  - appointment setter
+
+# Penaliza (no descarta) puestos con mucha carga de voz/telefono -> ingles ESCRITO
+penalize_terms:
+  "cold call": 25
+  "cold calling": 25
+  "phone support": 20
+  "voice support": 20
+  "outbound calls": 20
+  "heavy phone": 20
+  "make calls": 12
+  "phone calls": 12
+  "fluent spoken": 15
+  "verbal english": 12
+  "native english": 10
 
 region_allow:
   - worldwide
@@ -112,6 +137,8 @@ tools_watchlist:
   - salesforce
   - zendesk
   - intercom
+  - gorgias
+  - shopify
   - looker
   - quickbooks
   - jira
@@ -121,41 +148,28 @@ tools_watchlist:
   - clickup
 
 sources:
-  # --- Aggregators (public APIs / RSS) ---
   remotive_terms:
-    - operations
     - virtual assistant
-    - project coordinator
     - executive assistant
+    - administrative assistant
+    - operations assistant
   remoteok: true
-
-  # Jobicy: pulls whole geo buckets, scoring filters afterwards.
   jobicy_geos:
     - latin-america
     - anywhere
-
-  # Himalayas: verified-remote board, searched by keyword.
   himalayas_terms:
-    - operations
     - virtual assistant
-    - project coordinator
     - executive assistant
-    - administrative
-
-  # Get on Board: LATAM-focused, searched in Spanish + English (remote only).
+    - administrative assistant
+    - personal assistant
   getonbrd_terms:
-    - operaciones
     - asistente virtual
-    - coordinador
+    - asistente ejecutivo
     - asistente administrativo
-    - operations
-
-  # We Work Remotely: category RSS feeds most relevant to ops/VA.
+    - virtual assistant
   wwr_feeds:
     - "https://weworkremotely.com/categories/remote-customer-support-jobs.rss"
     - "https://weworkremotely.com/categories/remote-management-and-finance-jobs.rss"
-
-  # --- Per-company ATS boards (add the slugs Fabrizio targets) ---
   ashby:
     - "marcohire"
     - "scale Army Careers"
