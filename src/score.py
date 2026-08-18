@@ -40,7 +40,14 @@ def score_job(job, cfg):
             break
 
     raw = title_bonus + matched_sum * 3
-    score = int(min(raw, 100))
+
+    # v4: penalize phone/voice-heavy roles (we want written-English work)
+    for term, pen in cfg.get("penalize_terms", {}).items():
+        if term in text:
+            raw -= pen
+            reasons.append(f"-{pen}:{term}")
+
+    score = int(min(max(raw, 0), 100))
 
     gaps = [tool for tool in cfg.get("tools_watchlist", []) if tool in text]
     return score, reasons, gaps
