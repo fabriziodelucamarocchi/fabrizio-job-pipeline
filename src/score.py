@@ -21,8 +21,19 @@ def excluded(job, exclude_titles):
     return any(x in title for x in exclude_titles)
 
 
+def _flat_tags(tags):
+    """Tags can arrive as nested lists or contain None (varies by source)."""
+    out = []
+    for t in (tags or []):
+        if isinstance(t, (list, tuple)):
+            out.extend(str(x) for x in t if x)
+        elif t:
+            out.append(str(t))
+    return out
+
+
 def score_job(job, cfg):
-    text = norm(job.get("title", "") + " " + job.get("description", "") + " " + " ".join(job.get("tags", [])))
+    text = norm(job.get("title", "") + " " + job.get("description", "") + " " + " ".join(_flat_tags(job.get("tags", []))))
     title = norm(job.get("title", ""))
 
     matched_sum = 0
