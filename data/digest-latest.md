@@ -1,12 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-08-19)
+# Fabrizio - Job Pipeline - daily digest (2026-08-20)
 
-## New other matches (2)
-- **[39 match] Account Manager – Client Services** - Integrated Hire | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/integrated-hire-account-manager-client-services
-- **[39 match] Customer Support  Reservation Services (Remote)** - Destination Knot | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/destination-knot-customer-support-reservation-services-remote
+_No new matches today. Existing open roles below._
 
-## Still open - not yet applied (58)
+## Still open - not yet applied (60)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/b13091e9-0c6b-4f96-abdf-a63ebf1a976c
     - tools required: asana

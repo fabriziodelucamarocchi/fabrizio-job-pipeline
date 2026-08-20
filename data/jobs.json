@@ -9,7 +9,7 @@
       "clickup"
     ],
     "key": "ashby:0185d2bb-5573-4790-9a50-4782e9fa6b7f",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -37,7 +37,7 @@
       "hubspot"
     ],
     "key": "ashby:115bc71e-68c8-47dc-a353-048916bcc5cf",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -64,7 +64,7 @@
       "asana"
     ],
     "key": "ashby:179cb82d-d21d-46c2-87e9-69492a4ec03a",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -120,7 +120,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "ashby:1a9876c8-b351-4a81-9fca-81d7526d28c7",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -177,7 +177,7 @@
       "clickup"
     ],
     "key": "ashby:25326a69-866d-413d-ab92-33cc48d2eb5b",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Remote",
     "match_reasons": [
       "calendar",
@@ -351,7 +351,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "ashby:57191548-3ef0-4f80-9b92-3685d63facc0",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -511,7 +511,7 @@
       "slack"
     ],
     "key": "ashby:8a589b36-abdd-4e4d-a19d-98b03908684f",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -578,7 +578,7 @@
       "clickup"
     ],
     "key": "ashby:9e829a96-a4ff-4ac7-b682-9c9c35709b95",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Egypt",
     "match_reasons": [
       "assistant",
@@ -613,7 +613,7 @@
       "salesforce"
     ],
     "key": "ashby:a10123f1-0257-4c21-9af6-85441991e48c",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -727,7 +727,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "ashby:abf88096-ca6d-4789-8589-a2d9e228ccb8",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -753,7 +753,7 @@
       "asana"
     ],
     "key": "ashby:b13091e9-0c6b-4f96-abdf-a63ebf1a976c",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Egypt",
     "match_reasons": [
       "title~executive assistant",
@@ -844,7 +844,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "ashby:d77fc3cd-8ddd-4ff3-98d2-5f98805c8dd9",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Egypt",
     "match_reasons": [
       "email",
@@ -977,7 +977,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "getonbrd:asistente-administrativo-remoto-aba-remote",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Latin America Remote",
     "match_reasons": [
       "title~asistente administrativo",
@@ -1138,7 +1138,7 @@
       "quickbooks"
     ],
     "key": "remotive:1680495",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Worldwide",
     "match_reasons": [
       "assistant",
@@ -1354,7 +1354,7 @@
     "first_seen": "2026-08-19",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/destination-knot-customer-support-reservation-services-remote",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Anywhere in the World",
     "match_reasons": [
       "scheduling",
@@ -1429,7 +1429,7 @@
     "first_seen": "2026-08-19",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/integrated-hire-account-manager-client-services",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Anywhere in the World",
     "match_reasons": [
       "scheduling",
@@ -1652,7 +1652,7 @@
       "zoom"
     ],
     "key": "wwr:https://weworkremotely.com/remote-jobs/ylopo-client-success-manager",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
     "location": "Anywhere in the World",
     "match_reasons": [
       "email",
