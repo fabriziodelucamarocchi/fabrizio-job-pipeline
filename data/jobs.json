@@ -9,7 +9,7 @@
       "clickup"
     ],
     "key": "ashby:0185d2bb-5573-4790-9a50-4782e9fa6b7f",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -35,7 +35,7 @@
     "first_seen": "2026-08-25",
     "gaps": [],
     "key": "ashby:029892b6-69e6-474b-8bef-700e9da85e2f",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Egypt",
     "match_reasons": [
       "title~executive assistant",
@@ -70,7 +70,7 @@
       "hubspot"
     ],
     "key": "ashby:115bc71e-68c8-47dc-a353-048916bcc5cf",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -97,7 +97,7 @@
       "asana"
     ],
     "key": "ashby:179cb82d-d21d-46c2-87e9-69492a4ec03a",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -153,7 +153,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "ashby:1a9876c8-b351-4a81-9fca-81d7526d28c7",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -210,7 +210,7 @@
       "clickup"
     ],
     "key": "ashby:25326a69-866d-413d-ab92-33cc48d2eb5b",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Remote",
     "match_reasons": [
       "calendar",
@@ -384,7 +384,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "ashby:57191548-3ef0-4f80-9b92-3685d63facc0",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -536,6 +536,29 @@
     "title": "Social Media Manager",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/86535948-3534-4aab-a7da-6ea12145d7e4"
   },
+  "ashby:88af47a8-f537-418d-85a8-fe31b603e176": {
+    "company": "scale Army Careers",
+    "cover_letter": false,
+    "first_seen": "2026-08-26",
+    "gaps": [],
+    "key": "ashby:88af47a8-f537-418d-85a8-fe31b603e176",
+    "last_seen": "2026-08-26",
+    "location": "Egypt",
+    "match_reasons": [
+      "scheduling",
+      "calendar",
+      "email",
+      "coordination",
+      "organization"
+    ],
+    "published": "2026-08-25T21:35:26.426+00:00",
+    "salary": "",
+    "score": 39,
+    "source": "ashby",
+    "status": "new",
+    "title": "Full-Cycle Marketing Generalist",
+    "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/88af47a8-f537-418d-85a8-fe31b603e176"
+  },
   "ashby:8a589b36-abdd-4e4d-a19d-98b03908684f": {
     "company": "scale Army Careers",
     "cover_letter": false,
@@ -544,7 +567,7 @@
       "slack"
     ],
     "key": "ashby:8a589b36-abdd-4e4d-a19d-98b03908684f",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -646,7 +669,7 @@
       "salesforce"
     ],
     "key": "ashby:a10123f1-0257-4c21-9af6-85441991e48c",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -760,7 +783,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "ashby:abf88096-ca6d-4789-8589-a2d9e228ccb8",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -786,7 +809,7 @@
       "asana"
     ],
     "key": "ashby:b13091e9-0c6b-4f96-abdf-a63ebf1a976c",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Egypt",
     "match_reasons": [
       "title~executive assistant",
@@ -876,27 +899,27 @@
     "cover_letter": false,
     "first_seen": "2026-08-25",
     "gaps": [
-      "shopify"
+      "clickup"
     ],
     "key": "ashby:c986454c-0708-43b2-adaa-88e778b32e85",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Egypt",
     "match_reasons": [
-      "title~virtual assistant",
+      "title~executive assistant",
       "virtual assistant",
       "executive assistant",
       "assistant",
+      "email",
       "documentation",
       "coordination",
       "administrative",
       "organization",
-      "travel",
-      "chat",
-      "excel"
+      "clickup",
+      "stable"
     ],
     "published": "2026-08-25T13:20:19.026+00:00",
     "salary": "",
-    "score": 81,
+    "score": 84,
     "source": "ashby",
     "status": "new",
     "title": "Virtual Assistant",
@@ -1041,7 +1064,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "getonbrd:asistente-administrativo-remoto-aba-remote",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Latin America Remote",
     "match_reasons": [
       "title~asistente administrativo",
@@ -1085,7 +1108,7 @@
     "salary": "1000-1500 USD",
     "score": 36,
     "source": "getonbrd",
-    "status": "new",
+    "status": "stale",
     "title": "Client Success Coordinator LATAM",
     "url": "https://www.getonbrd.com/jobs/client-success-coordinator-latam-remote-egelloc-corporation-remote-7421"
   },
@@ -1202,7 +1225,7 @@
       "quickbooks"
     ],
     "key": "remotive:1680495",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Worldwide",
     "match_reasons": [
       "assistant",
@@ -1418,7 +1441,7 @@
     "first_seen": "2026-08-19",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/destination-knot-customer-support-reservation-services-remote",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Anywhere in the World",
     "match_reasons": [
       "scheduling",
@@ -1493,7 +1516,7 @@
     "first_seen": "2026-08-19",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/integrated-hire-account-manager-client-services",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "location": "Anywhere in the World",
     "match_reasons": [
       "scheduling",

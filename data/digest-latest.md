@@ -1,13 +1,12 @@
-# Fabrizio - Job Pipeline - daily digest (2026-08-25)
+# Fabrizio - Job Pipeline - daily digest (2026-08-26)
 
-## New HIGH matches (2)
+## New other matches (1)
+- **[39 match] Full-Cycle Marketing Generalist** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/88af47a8-f537-418d-85a8-fe31b603e176
+
+## Still open - not yet applied (61)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
-- **[81 HIGH] Virtual Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/c986454c-0708-43b2-adaa-88e778b32e85
-    - tools required: shopify
-
-## Still open - not yet applied (60)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/b13091e9-0c6b-4f96-abdf-a63ebf1a976c
     - tools required: asana
@@ -22,6 +21,9 @@
 - **[84 HIGH] Marketing Operations & Administrative Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/361ee084-f112-44a5-9d20-5f4900011e4e
     - tools required: hubspot, zoom
+- **[84 HIGH] Virtual Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/c986454c-0708-43b2-adaa-88e778b32e85
+    - tools required: clickup
 - **[69 HIGH] Operations Manager, Bermuda** - Coinbase | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/coinbase-operations-manager-bermuda
 - **[66 HIGH] Sales Operations Coordinator** - scale Army Careers | Egypt
@@ -68,11 +70,6 @@
 - **[48 match] Performance Marketing & Looker Studio Analyst** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/48d5f0a9-97f5-4a77-ab13-7bc7815e47ff
     - tools required: looker
-- **[48 match] Social Media & Content Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/9e829a96-a4ff-4ac7-b682-9c9c35709b95
-    - tools required: asana, monday.com, clickup
-- **[48 match] AI Implementation Specialist (Automation & Client Solutions) | Part-time** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/aa5a8042-d2ba-4c2d-b4ea-d8a3fc77e5b4
 
 ---
 _Apply-ready but nothing is sent automatically. Review, then apply yourself._
