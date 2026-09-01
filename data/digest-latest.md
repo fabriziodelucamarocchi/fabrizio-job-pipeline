@@ -1,6 +1,13 @@
-# Fabrizio - Job Pipeline - daily digest (2026-08-31)
+# Fabrizio - Job Pipeline - daily digest (2026-09-01)
 
-_No new matches today. Existing open roles below._
+## New HIGH matches (1)
+- **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/a380aade-cb64-4de2-93fd-1db797b0c03f
+    - tools required: clickup
+
+## New other matches (1)
+- **[45 match] Localization Project Coordinator** -  | Argentina
+    - https://himalayas.app/companies/acclaro/jobs/localization-project-coordinator
 
 ## Still open - not yet applied (22)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
