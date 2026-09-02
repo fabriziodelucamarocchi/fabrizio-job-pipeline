@@ -1,17 +1,13 @@
-# Fabrizio - Job Pipeline - daily digest (2026-09-01)
+# Fabrizio - Job Pipeline - daily digest (2026-09-02)
 
-## New HIGH matches (1)
+_No new matches today. Existing open roles below._
+
+## Still open - not yet applied (24)
+- **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/a380aade-cb64-4de2-93fd-1db797b0c03f
     - tools required: clickup
-
-## New other matches (1)
-- **[45 match] Localization Project Coordinator** -  | Argentina
-    - https://himalayas.app/companies/acclaro/jobs/localization-project-coordinator
-
-## Still open - not yet applied (22)
-- **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/b13091e9-0c6b-4f96-abdf-a63ebf1a976c
     - tools required: asana
@@ -42,6 +38,8 @@
     - tools required: asana, monday.com, clickup
 - **[48 match] Asistente Administrativo** -  | Latin America Remote | 200-300 USD
     - https://www.getonbrd.com/jobs/asistente-administrativo-remoto-aba-remote
+- **[45 match] Localization Project Coordinator** -  | Argentina
+    - https://himalayas.app/companies/acclaro/jobs/localization-project-coordinator
 - **[42 match] Maintenance Ops Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/abf88096-ca6d-4789-8589-a2d9e228ccb8
 - **[39 match] Marketing and AI Project Manager** - scale Army Careers | Egypt
