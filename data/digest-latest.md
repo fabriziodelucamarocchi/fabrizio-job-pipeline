@@ -1,8 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-09-03)
+# Fabrizio - Job Pipeline - daily digest (2026-09-04)
 
 _No new matches today. Existing open roles below._
 
-## Still open - not yet applied (22)
+## Still open - not yet applied (20)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
@@ -27,9 +27,6 @@ _No new matches today. Existing open roles below._
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/57191548-3ef0-4f80-9b92-3685d63facc0
 - **[48 match] Flight Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/1a9876c8-b351-4a81-9fca-81d7526d28c7
-- **[48 match] Social Media & Content Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/9e829a96-a4ff-4ac7-b682-9c9c35709b95
-    - tools required: asana, monday.com, clickup
 - **[48 match] Asistente Administrativo** -  | Latin America Remote | 200-300 USD
     - https://www.getonbrd.com/jobs/asistente-administrativo-remoto-aba-remote
 - **[45 match] Localization Project Coordinator** -  | Argentina
@@ -56,9 +53,6 @@ _No new matches today. Existing open roles below._
     - tools required: asana, slack, hubspot, salesforce
 - **[36 match] Senior Operations Coordinator – 3rd Party Logistics** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/d77fc3cd-8ddd-4ff3-98d2-5f98805c8dd9
-- **[36 match] Client Success Manager** - Ylopo | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/ylopo-client-success-manager
-    - tools required: salesforce, zoom
 
 ---
 _Apply-ready but nothing is sent automatically. Review, then apply yourself._
