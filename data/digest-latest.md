@@ -1,6 +1,11 @@
-# Fabrizio - Job Pipeline - daily digest (2026-09-04)
+# Fabrizio - Job Pipeline - daily digest (2026-09-07)
 
-_No new matches today. Existing open roles below._
+## New HIGH matches (2)
+- **[87 HIGH] Admin and Operations Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/90c7c568-2f70-404f-9f2b-5ba5c7f468b8
+    - tools required: shopify, clickup
+- **[69 HIGH] Executive Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/e1beb511-2aab-458a-b2f2-76bf46f4d734
 
 ## Still open - not yet applied (20)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
