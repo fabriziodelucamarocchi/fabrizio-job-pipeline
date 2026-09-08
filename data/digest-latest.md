@@ -1,13 +1,10 @@
-# Fabrizio - Job Pipeline - daily digest (2026-09-07)
+# Fabrizio - Job Pipeline - daily digest (2026-09-08)
 
-## New HIGH matches (2)
-- **[87 HIGH] Admin and Operations Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/90c7c568-2f70-404f-9f2b-5ba5c7f468b8
-    - tools required: shopify, clickup
-- **[69 HIGH] Executive Coordinator** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/e1beb511-2aab-458a-b2f2-76bf46f4d734
+## New other matches (1)
+- **[36 match] Customer Support Associate (Remote)** - Squarespace | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/squarespace-customer-support-associate-remote
 
-## Still open - not yet applied (20)
+## Still open - not yet applied (21)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
@@ -16,6 +13,11 @@
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/b13091e9-0c6b-4f96-abdf-a63ebf1a976c
     - tools required: asana
+- **[72 HIGH] Admin and Operations Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/90c7c568-2f70-404f-9f2b-5ba5c7f468b8
+    - tools required: shopify, clickup
+- **[69 HIGH] Executive Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/e1beb511-2aab-458a-b2f2-76bf46f4d734
 - **[63 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
     - tools required: asana
@@ -56,8 +58,6 @@
 - **[36 match] Mid-Senior PPC Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/a10123f1-0257-4c21-9af6-85441991e48c
     - tools required: asana, slack, hubspot, salesforce
-- **[36 match] Senior Operations Coordinator – 3rd Party Logistics** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/d77fc3cd-8ddd-4ff3-98d2-5f98805c8dd9
 
 ---
 _Apply-ready but nothing is sent automatically. Review, then apply yourself._
