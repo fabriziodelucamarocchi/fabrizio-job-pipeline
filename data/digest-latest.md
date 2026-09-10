@@ -1,9 +1,6 @@
-# Fabrizio - Job Pipeline - daily digest (2026-09-09)
+# Fabrizio - Job Pipeline - daily digest (2026-09-10)
 
-## New other matches (1)
-- **[39 match] Creative Resource Manager** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/4366b18a-6d0d-4537-8e0b-ec15fbf62a39
-    - tools required: asana, monday.com, clickup
+_No new matches today. Existing open roles below._
 
 ## Still open - not yet applied (22)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
@@ -22,9 +19,6 @@
 - **[63 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
     - tools required: asana
-- **[60 HIGH] Social Media Account Coordinator** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/8a589b36-abdd-4e4d-a19d-98b03908684f
-    - tools required: slack
 - **[60 HIGH] Remote Office Assistant** - Coalition Technologies  | Worldwide | $31,2k- $52k
     - https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
     - tools required: shopify, quickbooks
@@ -47,6 +41,9 @@
 - **[39 match] Operations Coordinator** - marcohire | Remote
     - https://jobs.ashbyhq.com/marcohire/25326a69-866d-413d-ab92-33cc48d2eb5b
     - tools required: asana, clickup
+- **[39 match] Creative Resource Manager** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/4366b18a-6d0d-4537-8e0b-ec15fbf62a39
+    - tools required: asana, monday.com, clickup
 - **[39 match] Full-Cycle Marketing Generalist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/88af47a8-f537-418d-85a8-fe31b603e176
 - **[39 match] Customer Support  Reservation Services (Remote)** - Destination Knot | Anywhere in the World
