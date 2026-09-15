@@ -1,14 +1,11 @@
-# Fabrizio - Job Pipeline - daily digest (2026-09-14)
+# Fabrizio - Job Pipeline - daily digest (2026-09-15)
 
-## New other matches (2)
-- **[48 match] Marketing Student Assistant** - Copenhagen Optimization
-    - https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381
-    - tools required: hubspot
-- **[42 match] HR Operations Specialist** - Law Offices of Sabrina Li
-    - https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386
-    - tools required: monday.com
+## New other matches (1)
+- **[36 match] Customer Experience Representative** - Prop Firm Match Global â FZCO
+    - https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390
+    - tools required: intercom
 
-## Still open - not yet applied (21)
+## Still open - not yet applied (23)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
@@ -35,10 +32,16 @@
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/57191548-3ef0-4f80-9b92-3685d63facc0
 - **[48 match] Flight Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/1a9876c8-b351-4a81-9fca-81d7526d28c7
+- **[48 match] Marketing Student Assistant** - Copenhagen Optimization
+    - https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381
+    - tools required: hubspot
 - **[45 match] Localization Project Coordinator** -  | Argentina
     - https://himalayas.app/companies/acclaro/jobs/localization-project-coordinator
 - **[42 match] Maintenance Ops Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/abf88096-ca6d-4789-8589-a2d9e228ccb8
+- **[42 match] HR Operations Specialist** - Law Offices of Sabrina Li
+    - https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386
+    - tools required: monday.com
 - **[39 match] Marketing and AI Project Manager** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/0185d2bb-5573-4790-9a50-4782e9fa6b7f
     - tools required: asana, monday.com, clickup
