@@ -1,9 +1,6 @@
-# Fabrizio - Job Pipeline - daily digest (2026-09-15)
+# Fabrizio - Job Pipeline - daily digest (2026-09-16)
 
-## New other matches (1)
-- **[36 match] Customer Experience Representative** - Prop Firm Match Global â FZCO
-    - https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390
-    - tools required: intercom
+_No new matches today. Existing open roles below._
 
 ## Still open - not yet applied (23)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
@@ -14,11 +11,11 @@
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/b13091e9-0c6b-4f96-abdf-a63ebf1a976c
     - tools required: asana
-- **[72 HIGH] Admin and Operations Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/90c7c568-2f70-404f-9f2b-5ba5c7f468b8
-    - tools required: shopify, clickup
 - **[69 HIGH] Executive Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/e1beb511-2aab-458a-b2f2-76bf46f4d734
+- **[66 HIGH] Admin and Operations Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/90c7c568-2f70-404f-9f2b-5ba5c7f468b8
+    - tools required: shopify, clickup
 - **[63 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
     - tools required: asana
@@ -35,8 +32,6 @@
 - **[48 match] Marketing Student Assistant** - Copenhagen Optimization
     - https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381
     - tools required: hubspot
-- **[45 match] Localization Project Coordinator** -  | Argentina
-    - https://himalayas.app/companies/acclaro/jobs/localization-project-coordinator
 - **[42 match] Maintenance Ops Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/abf88096-ca6d-4789-8589-a2d9e228ccb8
 - **[42 match] HR Operations Specialist** - Law Offices of Sabrina Li
@@ -63,6 +58,9 @@
 - **[36 match] Mid-Senior PPC Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/a10123f1-0257-4c21-9af6-85441991e48c
     - tools required: asana, slack, hubspot, salesforce
+- **[36 match] Customer Experience Representative** - Prop Firm Match Global â FZCO
+    - https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390
+    - tools required: intercom
 - **[36 match] Customer Support Associate (Remote)** - Squarespace | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/squarespace-customer-support-associate-remote
 
