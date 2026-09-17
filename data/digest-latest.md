@@ -1,6 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-09-16)
+# Fabrizio - Job Pipeline - daily digest (2026-09-17)
 
-_No new matches today. Existing open roles below._
+## New HIGH matches (1)
+- **[60 HIGH] Secretary & Admin Assistant** -  | Worldwide
+    - https://himalayas.app/companies/micro1/jobs/secretary-admin-assistant
 
 ## Still open - not yet applied (23)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
