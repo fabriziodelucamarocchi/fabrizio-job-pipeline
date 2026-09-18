@@ -1,10 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-09-17)
+# Fabrizio - Job Pipeline - daily digest (2026-09-18)
 
-## New HIGH matches (1)
-- **[60 HIGH] Secretary & Admin Assistant** -  | Worldwide
-    - https://himalayas.app/companies/micro1/jobs/secretary-admin-assistant
+_No new matches today. Existing open roles below._
 
-## Still open - not yet applied (23)
+## Still open - not yet applied (24)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
@@ -21,6 +19,8 @@
 - **[63 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
     - tools required: asana
+- **[60 HIGH] Secretary & Admin Assistant** -  | Worldwide
+    - https://himalayas.app/companies/micro1/jobs/secretary-admin-assistant
 - **[60 HIGH] Remote Office Assistant** - Coalition Technologies  | Worldwide | $31,2k- $52k
     - https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
     - tools required: shopify, quickbooks
