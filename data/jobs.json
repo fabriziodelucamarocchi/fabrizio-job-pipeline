@@ -9,7 +9,7 @@
       "clickup"
     ],
     "key": "ashby:0185d2bb-5573-4790-9a50-4782e9fa6b7f",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -35,7 +35,7 @@
     "first_seen": "2026-08-25",
     "gaps": [],
     "key": "ashby:029892b6-69e6-474b-8bef-700e9da85e2f",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Egypt",
     "match_reasons": [
       "title~executive assistant",
@@ -70,7 +70,7 @@
       "hubspot"
     ],
     "key": "ashby:115bc71e-68c8-47dc-a353-048916bcc5cf",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -97,7 +97,7 @@
       "asana"
     ],
     "key": "ashby:179cb82d-d21d-46c2-87e9-69492a4ec03a",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -153,7 +153,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "ashby:1a9876c8-b351-4a81-9fca-81d7526d28c7",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -210,7 +210,7 @@
       "clickup"
     ],
     "key": "ashby:25326a69-866d-413d-ab92-33cc48d2eb5b",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Remote",
     "match_reasons": [
       "calendar",
@@ -359,7 +359,7 @@
       "clickup"
     ],
     "key": "ashby:4366b18a-6d0d-4537-8e0b-ec15fbf62a39",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -414,7 +414,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "ashby:57191548-3ef0-4f80-9b92-3685d63facc0",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -489,6 +489,32 @@
     "status": "stale",
     "title": "Sales Operations Coordinator",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/5f60b030-bd78-4138-a363-ed59ec5aebf0"
+  },
+  "ashby:627cf897-de15-4aaa-8cd9-922d9fd27fa5": {
+    "company": "scale Army Careers",
+    "cover_letter": false,
+    "first_seen": "2026-09-22",
+    "gaps": [
+      "hubspot"
+    ],
+    "key": "ashby:627cf897-de15-4aaa-8cd9-922d9fd27fa5",
+    "last_seen": "2026-09-22",
+    "location": "Egypt",
+    "match_reasons": [
+      "email",
+      "documentation",
+      "coordination",
+      "organization",
+      "chat",
+      "google workspace"
+    ],
+    "published": "2026-09-22T16:09:48.781+00:00",
+    "salary": "",
+    "score": 36,
+    "source": "ashby",
+    "status": "new",
+    "title": "Customer Service Representative",
+    "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/627cf897-de15-4aaa-8cd9-922d9fd27fa5"
   },
   "ashby:67b3f164-fb8b-4afe-90c9-54d3b6ee7a36": {
     "company": "scale Army Careers",
@@ -572,7 +598,7 @@
     "first_seen": "2026-08-26",
     "gaps": [],
     "key": "ashby:88af47a8-f537-418d-85a8-fe31b603e176",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -627,7 +653,7 @@
       "clickup"
     ],
     "key": "ashby:90c7c568-2f70-404f-9f2b-5ba5c7f468b8",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -786,7 +812,7 @@
       "clickup"
     ],
     "key": "ashby:a380aade-cb64-4de2-93fd-1db797b0c03f",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Egypt",
     "match_reasons": [
       "title~administrative assistant",
@@ -903,7 +929,7 @@
       "asana"
     ],
     "key": "ashby:b13091e9-0c6b-4f96-abdf-a63ebf1a976c",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Egypt",
     "match_reasons": [
       "title~administrative assistant",
@@ -997,7 +1023,7 @@
       "clickup"
     ],
     "key": "ashby:c986454c-0708-43b2-adaa-88e778b32e85",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Egypt",
     "match_reasons": [
       "virtual assistant",
@@ -1427,7 +1453,7 @@
       "hubspot"
     ],
     "key": "remoteok:1137381",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "",
     "match_reasons": [
       "virtual assistant",
@@ -1453,7 +1479,7 @@
       "monday.com"
     ],
     "key": "remoteok:1137386",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "",
     "match_reasons": [
       "scheduling",
@@ -1507,7 +1533,7 @@
       "quickbooks"
     ],
     "key": "remotive:1680495",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "location": "Worldwide",
     "match_reasons": [
       "assistant",

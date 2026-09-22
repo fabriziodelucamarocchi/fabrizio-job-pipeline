@@ -1,10 +1,11 @@
-# Fabrizio - Job Pipeline - daily digest (2026-09-21)
+# Fabrizio - Job Pipeline - daily digest (2026-09-22)
 
-## New HIGH matches (1)
-- **[72 HIGH] Spanish Bilingual Virtual Assistant** -  | Latin America Remote
-    - https://www.getonbrd.com/jobs/spanish-bilingual-virtual-assistant-magic-remote
+## New other matches (1)
+- **[36 match] Customer Service Representative** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/627cf897-de15-4aaa-8cd9-922d9fd27fa5
+    - tools required: hubspot
 
-## Still open - not yet applied (24)
+## Still open - not yet applied (25)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
@@ -13,6 +14,8 @@
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/b13091e9-0c6b-4f96-abdf-a63ebf1a976c
     - tools required: asana
+- **[72 HIGH] Spanish Bilingual Virtual Assistant** -  | Latin America Remote
+    - https://www.getonbrd.com/jobs/spanish-bilingual-virtual-assistant-magic-remote
 - **[69 HIGH] Executive Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/e1beb511-2aab-458a-b2f2-76bf46f4d734
 - **[63 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
