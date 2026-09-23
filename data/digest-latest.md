@@ -1,9 +1,9 @@
-# Fabrizio - Job Pipeline - daily digest (2026-09-22)
+# Fabrizio - Job Pipeline - daily digest (2026-09-23)
 
 ## New other matches (1)
-- **[36 match] Customer Service Representative** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/627cf897-de15-4aaa-8cd9-922d9fd27fa5
-    - tools required: hubspot
+- **[36 match] Marketing Generalist** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/7fea17b7-301e-4735-a745-9f61d5d3e05d
+    - tools required: slack, hubspot
 
 ## Still open - not yet applied (25)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
@@ -39,8 +39,6 @@
 - **[48 match] Marketing Student Assistant** - Copenhagen Optimization
     - https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381
     - tools required: hubspot
-- **[42 match] Maintenance Ops Coordinator** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/abf88096-ca6d-4789-8589-a2d9e228ccb8
 - **[42 match] HR Operations Specialist** - Law Offices of Sabrina Li
     - https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386
     - tools required: monday.com
@@ -61,6 +59,9 @@
     - https://weworkremotely.com/remote-jobs/integrated-hire-account-manager-client-services
 - **[36 match] Lead Generation Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/115bc71e-68c8-47dc-a353-048916bcc5cf
+    - tools required: hubspot
+- **[36 match] Customer Service Representative** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/627cf897-de15-4aaa-8cd9-922d9fd27fa5
     - tools required: hubspot
 - **[36 match] Mid-Senior PPC Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/a10123f1-0257-4c21-9af6-85441991e48c
