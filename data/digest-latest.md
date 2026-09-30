@@ -1,8 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-09-29)
+# Fabrizio - Job Pipeline - daily digest (2026-09-30)
 
 _No new matches today. Existing open roles below._
 
-## Still open - not yet applied (26)
+## Still open - not yet applied (25)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
@@ -64,12 +64,11 @@ _No new matches today. Existing open roles below._
 - **[36 match] Marketing Generalist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/7fea17b7-301e-4735-a745-9f61d5d3e05d
     - tools required: slack, hubspot
-- **[36 match] Mid-Senior PPC Specialist** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/a10123f1-0257-4c21-9af6-85441991e48c
-    - tools required: asana, slack, hubspot, salesforce
 - **[36 match] Customer Experience Representative** - Prop Firm Match Global â FZCO
     - https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390
     - tools required: intercom
+- **[36 match] Customer Support Associate (Remote)** - Squarespace | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/squarespace-customer-support-associate-remote
 
 ---
 _Apply-ready but nothing is sent automatically. Review, then apply yourself._
