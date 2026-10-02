@@ -1,8 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-01)
+# Fabrizio - Job Pipeline - daily digest (2026-10-02)
 
 _No new matches today. Existing open roles below._
 
-## Still open - not yet applied (25)
+## Still open - not yet applied (22)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
@@ -21,8 +21,6 @@ _No new matches today. Existing open roles below._
 - **[63 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
     - tools required: asana
-- **[60 HIGH] Secretary & Admin Assistant** -  | Worldwide
-    - https://himalayas.app/companies/micro1/jobs/secretary-admin-assistant
 - **[60 HIGH] Remote Office Assistant** - Coalition Technologies  | Worldwide | $31,2k- $52k
     - https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
     - tools required: shopify, quickbooks
@@ -53,8 +51,6 @@ _No new matches today. Existing open roles below._
     - tools required: asana, monday.com, clickup
 - **[39 match] Full-Cycle Marketing Generalist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/88af47a8-f537-418d-85a8-fe31b603e176
-- **[39 match] Customer Support  Reservation Services (Remote)** - Destination Knot | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/destination-knot-customer-support-reservation-services-remote
 - **[36 match] Lead Generation Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/115bc71e-68c8-47dc-a353-048916bcc5cf
     - tools required: hubspot
@@ -67,8 +63,6 @@ _No new matches today. Existing open roles below._
 - **[36 match] Customer Experience Representative** - Prop Firm Match Global â FZCO
     - https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390
     - tools required: intercom
-- **[36 match] Customer Support Associate (Remote)** - Squarespace | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/squarespace-customer-support-associate-remote
 
 ---
 _Apply-ready but nothing is sent automatically. Review, then apply yourself._
