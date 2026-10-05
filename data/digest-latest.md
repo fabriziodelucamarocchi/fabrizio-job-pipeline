@@ -1,8 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-02)
+# Fabrizio - Job Pipeline - daily digest (2026-10-05)
 
 _No new matches today. Existing open roles below._
 
-## Still open - not yet applied (22)
+## Still open - not yet applied (20)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
@@ -16,8 +16,6 @@ _No new matches today. Existing open roles below._
     - tools required: zoom
 - **[72 HIGH] Spanish Bilingual Virtual Assistant** -  | Latin America Remote
     - https://www.getonbrd.com/jobs/spanish-bilingual-virtual-assistant-magic-remote
-- **[69 HIGH] Executive Coordinator** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/e1beb511-2aab-458a-b2f2-76bf46f4d734
 - **[63 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
     - tools required: asana
@@ -60,9 +58,6 @@ _No new matches today. Existing open roles below._
 - **[36 match] Marketing Generalist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/7fea17b7-301e-4735-a745-9f61d5d3e05d
     - tools required: slack, hubspot
-- **[36 match] Customer Experience Representative** - Prop Firm Match Global â FZCO
-    - https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390
-    - tools required: intercom
 
 ---
 _Apply-ready but nothing is sent automatically. Review, then apply yourself._
