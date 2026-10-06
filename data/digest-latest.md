@@ -1,6 +1,9 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-05)
+# Fabrizio - Job Pipeline - daily digest (2026-10-06)
 
-_No new matches today. Existing open roles below._
+## New other matches (1)
+- **[36 match] Mid-Junior PPC Specialist** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/1e112ec6-90ec-4c6e-a557-6de6510f06ae
+    - tools required: asana, slack, hubspot, salesforce
 
 ## Still open - not yet applied (20)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
