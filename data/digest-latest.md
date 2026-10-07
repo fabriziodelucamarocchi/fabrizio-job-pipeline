@@ -1,11 +1,11 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-06)
+# Fabrizio - Job Pipeline - daily digest (2026-10-07)
 
 ## New other matches (1)
-- **[36 match] Mid-Junior PPC Specialist** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/1e112ec6-90ec-4c6e-a557-6de6510f06ae
-    - tools required: asana, slack, hubspot, salesforce
+- **[39 match] Billing Support Analyst - Philippines** - Mixmax | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines
+    - tools required: salesforce, zendesk, intercom, quickbooks
 
-## Still open - not yet applied (20)
+## Still open - not yet applied (21)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
@@ -55,6 +55,9 @@
 - **[36 match] Lead Generation Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/115bc71e-68c8-47dc-a353-048916bcc5cf
     - tools required: hubspot
+- **[36 match] Mid-Junior PPC Specialist** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/1e112ec6-90ec-4c6e-a557-6de6510f06ae
+    - tools required: asana, slack, hubspot, salesforce
 - **[36 match] Customer Service Representative** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/627cf897-de15-4aaa-8cd9-922d9fd27fa5
     - tools required: hubspot
