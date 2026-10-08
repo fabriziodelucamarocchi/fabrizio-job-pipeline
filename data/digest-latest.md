@@ -1,11 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-07)
+# Fabrizio - Job Pipeline - daily digest (2026-10-08)
 
-## New other matches (1)
-- **[39 match] Billing Support Analyst - Philippines** - Mixmax | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines
-    - tools required: salesforce, zendesk, intercom, quickbooks
+_No new matches today. Existing open roles below._
 
-## Still open - not yet applied (21)
+## Still open - not yet applied (22)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
@@ -52,6 +49,9 @@
     - tools required: asana, monday.com, clickup
 - **[39 match] Full-Cycle Marketing Generalist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/88af47a8-f537-418d-85a8-fe31b603e176
+- **[39 match] Billing Support Analyst - Philippines** - Mixmax | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines
+    - tools required: salesforce, zendesk, intercom, quickbooks
 - **[36 match] Lead Generation Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/115bc71e-68c8-47dc-a353-048916bcc5cf
     - tools required: hubspot
