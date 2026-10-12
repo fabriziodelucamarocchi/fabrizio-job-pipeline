@@ -9,7 +9,7 @@
       "clickup"
     ],
     "key": "ashby:0185d2bb-5573-4790-9a50-4782e9fa6b7f",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -70,7 +70,7 @@
       "hubspot"
     ],
     "key": "ashby:115bc71e-68c8-47dc-a353-048916bcc5cf",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -97,7 +97,7 @@
       "asana"
     ],
     "key": "ashby:179cb82d-d21d-46c2-87e9-69492a4ec03a",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -212,7 +212,7 @@
       "salesforce"
     ],
     "key": "ashby:1e112ec6-90ec-4c6e-a557-6de6510f06ae",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -240,7 +240,7 @@
       "clickup"
     ],
     "key": "ashby:25326a69-866d-413d-ab92-33cc48d2eb5b",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Remote",
     "match_reasons": [
       "calendar",
@@ -389,7 +389,7 @@
       "clickup"
     ],
     "key": "ashby:4366b18a-6d0d-4537-8e0b-ec15fbf62a39",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -444,7 +444,7 @@
     "first_seen": "2026-08-11",
     "gaps": [],
     "key": "ashby:57191548-3ef0-4f80-9b92-3685d63facc0",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -528,7 +528,7 @@
       "hubspot"
     ],
     "key": "ashby:627cf897-de15-4aaa-8cd9-922d9fd27fa5",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Egypt",
     "match_reasons": [
       "email",
@@ -579,7 +579,7 @@
       "hubspot"
     ],
     "key": "ashby:7fea17b7-301e-4735-a745-9f61d5d3e05d",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -655,7 +655,7 @@
     "first_seen": "2026-08-26",
     "gaps": [],
     "key": "ashby:88af47a8-f537-418d-85a8-fe31b603e176",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -727,7 +727,7 @@
     "salary": "",
     "score": 57,
     "source": "ashby",
-    "status": "new",
+    "status": "stale",
     "title": "Admin and Operations Assistant",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/90c7c568-2f70-404f-9f2b-5ba5c7f468b8"
   },
@@ -891,7 +891,7 @@
     "salary": "",
     "score": 100,
     "source": "ashby",
-    "status": "new",
+    "status": "stale",
     "title": "Marketing Administrative Assistant",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/a380aade-cb64-4de2-93fd-1db797b0c03f"
   },
@@ -1080,7 +1080,7 @@
       "clickup"
     ],
     "key": "ashby:c986454c-0708-43b2-adaa-88e778b32e85",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Egypt",
     "match_reasons": [
       "virtual assistant",
@@ -1133,7 +1133,7 @@
       "zoom"
     ],
     "key": "ashby:dc153751-8870-4ef4-8845-e8779b2ca2c2",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Egypt",
     "match_reasons": [
       "title~executive assistant",
@@ -1479,7 +1479,7 @@
     "salary": "",
     "score": 72,
     "source": "getonbrd",
-    "status": "new",
+    "status": "stale",
     "title": "Spanish Bilingual Virtual Assistant",
     "url": "https://www.getonbrd.com/jobs/spanish-bilingual-virtual-assistant-magic-remote"
   },
@@ -1544,7 +1544,7 @@
       "hubspot"
     ],
     "key": "remoteok:1137381",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "",
     "match_reasons": [
       "virtual assistant",
@@ -1570,7 +1570,7 @@
       "monday.com"
     ],
     "key": "remoteok:1137386",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "",
     "match_reasons": [
       "scheduling",
@@ -1614,6 +1614,32 @@
     "status": "stale",
     "title": "Customer Experience Representative",
     "url": "https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390"
+  },
+  "remoteok:1137479": {
+    "company": "Miaplaza",
+    "cover_letter": false,
+    "first_seen": "2026-10-12",
+    "gaps": [],
+    "key": "remoteok:1137479",
+    "last_seen": "2026-10-12",
+    "location": "",
+    "match_reasons": [
+      "virtual assistant",
+      "assistant",
+      "scheduling",
+      "documentation",
+      "coordination",
+      "organization",
+      "written",
+      "excel"
+    ],
+    "published": "2026-10-10T00:00:11+00:00",
+    "salary": "40-48 USD",
+    "score": 57,
+    "source": "remoteok",
+    "status": "new",
+    "title": "Academic Dean for MiaPrep Online Academy of Ohio",
+    "url": "https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479"
   },
   "remotive:1680495": {
     "company": "Coalition Technologies ",
@@ -1979,7 +2005,7 @@
       "quickbooks"
     ],
     "key": "wwr:https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
     "location": "Anywhere in the World",
     "match_reasons": [
       "email",

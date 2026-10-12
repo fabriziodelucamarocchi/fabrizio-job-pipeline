@@ -1,30 +1,24 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-09)
+# Fabrizio - Job Pipeline - daily digest (2026-10-12)
 
-_No new matches today. Existing open roles below._
+## New HIGH matches (1)
+- **[57 HIGH] Academic Dean for MiaPrep Online Academy of Ohio** - Miaplaza | 40-48 USD
+    - https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479
 
-## Still open - not yet applied (22)
+## Still open - not yet applied (19)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
-- **[100 HIGH] Marketing Administrative Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/a380aade-cb64-4de2-93fd-1db797b0c03f
-    - tools required: clickup
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/b13091e9-0c6b-4f96-abdf-a63ebf1a976c
     - tools required: asana
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
-- **[72 HIGH] Spanish Bilingual Virtual Assistant** -  | Latin America Remote
-    - https://www.getonbrd.com/jobs/spanish-bilingual-virtual-assistant-magic-remote
 - **[63 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
     - tools required: asana
 - **[60 HIGH] Remote Office Assistant** - Coalition Technologies  | Worldwide | $31,2k- $52k
     - https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
     - tools required: shopify, quickbooks
-- **[57 HIGH] Admin and Operations Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/90c7c568-2f70-404f-9f2b-5ba5c7f468b8
-    - tools required: shopify, clickup
 - **[57 HIGH] Virtual Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/c986454c-0708-43b2-adaa-88e778b32e85
     - tools required: clickup
