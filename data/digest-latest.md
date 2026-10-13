@@ -1,10 +1,11 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-12)
+# Fabrizio - Job Pipeline - daily digest (2026-10-13)
 
-## New HIGH matches (1)
-- **[57 HIGH] Academic Dean for MiaPrep Online Academy of Ohio** - Miaplaza | 40-48 USD
-    - https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479
+## New other matches (1)
+- **[36 match] Technical CRM Project Manager (French Speaking)** - Huble | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/huble-technical-crm-project-manager-french-speaking
+    - tools required: hubspot
 
-## Still open - not yet applied (19)
+## Still open - not yet applied (20)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
@@ -22,6 +23,8 @@
 - **[57 HIGH] Virtual Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/c986454c-0708-43b2-adaa-88e778b32e85
     - tools required: clickup
+- **[57 HIGH] Academic Dean for MiaPrep Online Academy of Ohio** - Miaplaza | 40-48 USD
+    - https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479
 - **[54 HIGH] Marketing Associate** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/57191548-3ef0-4f80-9b92-3685d63facc0
 - **[48 match] Flight Operations Coordinator** - scale Army Careers | Egypt
