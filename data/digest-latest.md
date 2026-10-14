@@ -1,11 +1,11 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-13)
+# Fabrizio - Job Pipeline - daily digest (2026-10-14)
 
 ## New other matches (1)
-- **[36 match] Technical CRM Project Manager (French Speaking)** - Huble | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/huble-technical-crm-project-manager-french-speaking
-    - tools required: hubspot
+- **[42 match] Digital Marketing Specialist & Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/0f8b0c84-bb4d-48b9-a6b4-a741304018f8
+    - tools required: hubspot, clickup
 
-## Still open - not yet applied (20)
+## Still open - not yet applied (21)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
@@ -61,6 +61,9 @@
 - **[36 match] Marketing Generalist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/7fea17b7-301e-4735-a745-9f61d5d3e05d
     - tools required: slack, hubspot
+- **[36 match] Technical CRM Project Manager (French Speaking)** - Huble | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/huble-technical-crm-project-manager-french-speaking
+    - tools required: hubspot
 
 ---
 _Apply-ready but nothing is sent automatically. Review, then apply yourself._
