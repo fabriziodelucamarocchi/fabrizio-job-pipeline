@@ -1,11 +1,10 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-14)
+# Fabrizio - Job Pipeline - daily digest (2026-10-15)
 
-## New other matches (1)
-- **[42 match] Digital Marketing Specialist & Coordinator** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/0f8b0c84-bb4d-48b9-a6b4-a741304018f8
-    - tools required: hubspot, clickup
+## New HIGH matches (1)
+- **[75 HIGH] Operations Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/efed1cb6-3bd0-4153-ad34-c4ad769af981
 
-## Still open - not yet applied (21)
+## Still open - not yet applied (22)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
@@ -32,6 +31,9 @@
 - **[48 match] Marketing Student Assistant** - Copenhagen Optimization
     - https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381
     - tools required: hubspot
+- **[42 match] Digital Marketing Specialist & Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/0f8b0c84-bb4d-48b9-a6b4-a741304018f8
+    - tools required: hubspot, clickup
 - **[42 match] HR Operations Specialist** - Law Offices of Sabrina Li
     - https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386
     - tools required: monday.com

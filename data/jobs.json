@@ -9,7 +9,7 @@
       "clickup"
     ],
     "key": "ashby:0185d2bb-5573-4790-9a50-4782e9fa6b7f",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -71,7 +71,7 @@
       "clickup"
     ],
     "key": "ashby:0f8b0c84-bb4d-48b9-a6b4-a741304018f8",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Egypt",
     "match_reasons": [
       "calendar",
@@ -98,7 +98,7 @@
       "hubspot"
     ],
     "key": "ashby:115bc71e-68c8-47dc-a353-048916bcc5cf",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -125,7 +125,7 @@
       "asana"
     ],
     "key": "ashby:179cb82d-d21d-46c2-87e9-69492a4ec03a",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -240,7 +240,7 @@
       "salesforce"
     ],
     "key": "ashby:1e112ec6-90ec-4c6e-a557-6de6510f06ae",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -268,7 +268,7 @@
       "clickup"
     ],
     "key": "ashby:25326a69-866d-413d-ab92-33cc48d2eb5b",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Remote",
     "match_reasons": [
       "calendar",
@@ -417,7 +417,7 @@
       "clickup"
     ],
     "key": "ashby:4366b18a-6d0d-4537-8e0b-ec15fbf62a39",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -556,7 +556,7 @@
       "hubspot"
     ],
     "key": "ashby:627cf897-de15-4aaa-8cd9-922d9fd27fa5",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Egypt",
     "match_reasons": [
       "email",
@@ -607,7 +607,7 @@
       "hubspot"
     ],
     "key": "ashby:7fea17b7-301e-4735-a745-9f61d5d3e05d",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -683,7 +683,7 @@
     "first_seen": "2026-08-26",
     "gaps": [],
     "key": "ashby:88af47a8-f537-418d-85a8-fe31b603e176",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -1108,7 +1108,7 @@
       "clickup"
     ],
     "key": "ashby:c986454c-0708-43b2-adaa-88e778b32e85",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Egypt",
     "match_reasons": [
       "virtual assistant",
@@ -1161,7 +1161,7 @@
       "zoom"
     ],
     "key": "ashby:dc153751-8870-4ef4-8845-e8779b2ca2c2",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Egypt",
     "match_reasons": [
       "title~executive assistant",
@@ -1271,6 +1271,33 @@
     "status": "stale",
     "title": "Senior FP&A Analyst",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/ee933ced-c702-4486-86de-fbfc1bb8b408"
+  },
+  "ashby:efed1cb6-3bd0-4153-ad34-c4ad769af981": {
+    "company": "scale Army Careers",
+    "cover_letter": false,
+    "first_seen": "2026-10-15",
+    "gaps": [],
+    "key": "ashby:efed1cb6-3bd0-4153-ad34-c4ad769af981",
+    "last_seen": "2026-10-15",
+    "location": "Egypt",
+    "match_reasons": [
+      "title~operations assistant",
+      "executive assistant",
+      "assistant",
+      "calendar",
+      "email",
+      "coordination",
+      "administrative",
+      "organization",
+      "google workspace"
+    ],
+    "published": "2026-10-15T04:46:38.089+00:00",
+    "salary": "",
+    "score": 75,
+    "source": "ashby",
+    "status": "new",
+    "title": "Operations Assistant",
+    "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/efed1cb6-3bd0-4153-ad34-c4ad769af981"
   },
   "ashby:f0283078-8f99-4eba-8d8d-336616822c27": {
     "company": "scale Army Careers",
@@ -1572,7 +1599,7 @@
       "hubspot"
     ],
     "key": "remoteok:1137381",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "",
     "match_reasons": [
       "virtual assistant",
@@ -1649,7 +1676,7 @@
     "first_seen": "2026-10-12",
     "gaps": [],
     "key": "remoteok:1137479",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "",
     "match_reasons": [
       "virtual assistant",
@@ -1678,7 +1705,7 @@
       "quickbooks"
     ],
     "key": "remotive:1680495",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Worldwide",
     "match_reasons": [
       "assistant",
@@ -1971,7 +1998,7 @@
       "hubspot"
     ],
     "key": "wwr:https://weworkremotely.com/remote-jobs/huble-technical-crm-project-manager-french-speaking",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Anywhere in the World",
     "match_reasons": [
       "scheduling",
@@ -2059,7 +2086,7 @@
       "quickbooks"
     ],
     "key": "wwr:https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
     "location": "Anywhere in the World",
     "match_reasons": [
       "email",
