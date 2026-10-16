@@ -1,10 +1,11 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-15)
+# Fabrizio - Job Pipeline - daily digest (2026-10-16)
 
 ## New HIGH matches (1)
-- **[75 HIGH] Operations Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/efed1cb6-3bd0-4153-ad34-c4ad769af981
+- **[72 HIGH] 1167 - Marketing Assistant** -  | Worldwide
+    - https://himalayas.app/companies/gofasti/jobs/1167-marketing-assistant
+    - tools required: hubspot
 
-## Still open - not yet applied (22)
+## Still open - not yet applied (23)
 - **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
@@ -13,6 +14,8 @@
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
+- **[75 HIGH] Operations Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/efed1cb6-3bd0-4153-ad34-c4ad769af981
 - **[63 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
     - tools required: asana
