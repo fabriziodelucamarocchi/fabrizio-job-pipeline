@@ -1,13 +1,10 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-16)
+# Fabrizio - Job Pipeline - daily digest (2026-10-19)
 
-## New HIGH matches (1)
-- **[72 HIGH] 1167 - Marketing Assistant** -  | Worldwide
-    - https://himalayas.app/companies/gofasti/jobs/1167-marketing-assistant
-    - tools required: hubspot
+## New other matches (1)
+- **[48 match] Operations Support Specialist** - Evolve Peptides | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist
 
 ## Still open - not yet applied (23)
-- **[100 HIGH] Senior Executive Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/029892b6-69e6-474b-8bef-700e9da85e2f
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/b13091e9-0c6b-4f96-abdf-a63ebf1a976c
     - tools required: asana
@@ -16,6 +13,9 @@
     - tools required: zoom
 - **[75 HIGH] Operations Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/efed1cb6-3bd0-4153-ad34-c4ad769af981
+- **[72 HIGH] 1167 - Marketing Assistant** -  | Worldwide
+    - https://himalayas.app/companies/gofasti/jobs/1167-marketing-assistant
+    - tools required: hubspot
 - **[63 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
     - tools required: asana
