@@ -1,10 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-19)
+# Fabrizio - Job Pipeline - daily digest (2026-10-20)
 
-## New other matches (1)
-- **[48 match] Operations Support Specialist** - Evolve Peptides | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist
+_No new matches today. Existing open roles below._
 
-## Still open - not yet applied (23)
+## Still open - not yet applied (24)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/b13091e9-0c6b-4f96-abdf-a63ebf1a976c
     - tools required: asana
@@ -34,6 +32,8 @@
 - **[48 match] Marketing Student Assistant** - Copenhagen Optimization
     - https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381
     - tools required: hubspot
+- **[48 match] Operations Support Specialist** - Evolve Peptides | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist
 - **[42 match] Digital Marketing Specialist & Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/0f8b0c84-bb4d-48b9-a6b4-a741304018f8
     - tools required: hubspot, clickup
