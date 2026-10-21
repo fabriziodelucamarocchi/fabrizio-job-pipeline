@@ -1,8 +1,11 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-20)
+# Fabrizio - Job Pipeline - daily digest (2026-10-21)
 
-_No new matches today. Existing open roles below._
+## New other matches (1)
+- **[39 match] Digital Marketing Specialist** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/f0a60e29-3ae5-41b2-b638-b4c6de930559
+    - tools required: shopify
 
-## Still open - not yet applied (24)
+## Still open - not yet applied (23)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/b13091e9-0c6b-4f96-abdf-a63ebf1a976c
     - tools required: asana
@@ -27,8 +30,6 @@ _No new matches today. Existing open roles below._
     - https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479
 - **[54 HIGH] Marketing Associate** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/57191548-3ef0-4f80-9b92-3685d63facc0
-- **[48 match] Flight Operations Coordinator** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/1a9876c8-b351-4a81-9fca-81d7526d28c7
 - **[48 match] Marketing Student Assistant** - Copenhagen Optimization
     - https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381
     - tools required: hubspot
