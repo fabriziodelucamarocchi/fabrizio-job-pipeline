@@ -1,6 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-22)
+# Fabrizio - Job Pipeline - daily digest (2026-10-23)
 
-_No new matches today. Existing open roles below._
+## New other matches (1)
+- **[39 match] Business Services Team Manager** - Canonical | Anywhere
+    - https://jobicy.com/jobs/156580-business-services-team-manager
 
 ## Still open - not yet applied (23)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
