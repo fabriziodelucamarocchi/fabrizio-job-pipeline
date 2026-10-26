@@ -1,10 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-23)
+# Fabrizio - Job Pipeline - daily digest (2026-10-26)
 
-## New other matches (1)
-- **[39 match] Business Services Team Manager** - Canonical | Anywhere
-    - https://jobicy.com/jobs/156580-business-services-team-manager
+_No new matches today. Existing open roles below._
 
-## Still open - not yet applied (23)
+## Still open - not yet applied (24)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
@@ -51,6 +49,8 @@
 - **[39 match] Digital Marketing Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/f0a60e29-3ae5-41b2-b638-b4c6de930559
     - tools required: shopify
+- **[39 match] Business Services Team Manager** - Canonical | Anywhere
+    - https://jobicy.com/jobs/156580-business-services-team-manager
 - **[39 match] Billing Support Analyst - Philippines** - Mixmax | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines
     - tools required: salesforce, zendesk, intercom, quickbooks
