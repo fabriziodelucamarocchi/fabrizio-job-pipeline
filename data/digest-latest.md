@@ -1,8 +1,15 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-26)
+# Fabrizio - Job Pipeline - daily digest (2026-10-27)
 
-_No new matches today. Existing open roles below._
+## New HIGH matches (1)
+- **[81 HIGH] Construction Virtual Assistant** -  | Latin America Remote | 700-1000 USD
+    - https://www.getonbrd.com/jobs/virtual-assistant-quali-t-remote
 
-## Still open - not yet applied (24)
+## New other matches (1)
+- **[39 match] Webflow Project Manager** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/ac414845-a654-4b65-8d0b-f12b3e9bd602
+    - tools required: asana, clickup
+
+## Still open - not yet applied (22)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
@@ -22,8 +29,6 @@ _No new matches today. Existing open roles below._
     - tools required: clickup
 - **[57 HIGH] Academic Dean for MiaPrep Online Academy of Ohio** - Miaplaza | 40-48 USD
     - https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479
-- **[54 HIGH] Marketing Associate** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/57191548-3ef0-4f80-9b92-3685d63facc0
 - **[48 match] Marketing Student Assistant** - Copenhagen Optimization
     - https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381
     - tools required: hubspot
@@ -32,9 +37,6 @@ _No new matches today. Existing open roles below._
 - **[42 match] Digital Marketing Specialist & Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/0f8b0c84-bb4d-48b9-a6b4-a741304018f8
     - tools required: hubspot, clickup
-- **[42 match] HR Operations Specialist** - Law Offices of Sabrina Li
-    - https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386
-    - tools required: monday.com
 - **[39 match] Marketing and AI Project Manager** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/0185d2bb-5573-4790-9a50-4782e9fa6b7f
     - tools required: asana, monday.com, clickup
