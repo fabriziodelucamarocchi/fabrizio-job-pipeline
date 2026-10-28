@@ -1,18 +1,15 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-27)
-
-## New HIGH matches (1)
-- **[81 HIGH] Construction Virtual Assistant** -  | Latin America Remote | 700-1000 USD
-    - https://www.getonbrd.com/jobs/virtual-assistant-quali-t-remote
+# Fabrizio - Job Pipeline - daily digest (2026-10-28)
 
 ## New other matches (1)
-- **[39 match] Webflow Project Manager** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/ac414845-a654-4b65-8d0b-f12b3e9bd602
-    - tools required: asana, clickup
+- **[42 match] Customer Onboarding Specialist for Company Incorporations (Full Time)** - Flag Theory | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3
 
-## Still open - not yet applied (22)
+## Still open - not yet applied (24)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
+- **[81 HIGH] Construction Virtual Assistant** -  | Latin America Remote | 700-1000 USD
+    - https://www.getonbrd.com/jobs/virtual-assistant-quali-t-remote
 - **[75 HIGH] Operations Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/efed1cb6-3bd0-4153-ad34-c4ad769af981
 - **[72 HIGH] 1167 - Marketing Assistant** -  | Worldwide
@@ -48,6 +45,9 @@
     - tools required: asana, monday.com, clickup
 - **[39 match] Full-Cycle Marketing Generalist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/88af47a8-f537-418d-85a8-fe31b603e176
+- **[39 match] Webflow Project Manager** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/ac414845-a654-4b65-8d0b-f12b3e9bd602
+    - tools required: asana, clickup
 - **[39 match] Digital Marketing Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/f0a60e29-3ae5-41b2-b638-b4c6de930559
     - tools required: shopify
