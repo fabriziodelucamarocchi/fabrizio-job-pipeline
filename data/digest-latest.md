@@ -1,8 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-10-30)
+# Fabrizio - Job Pipeline - daily digest (2026-11-02)
 
 _No new matches today. Existing open roles below._
 
-## Still open - not yet applied (25)
+## Still open - not yet applied (24)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
@@ -10,9 +10,6 @@ _No new matches today. Existing open roles below._
     - https://www.getonbrd.com/jobs/virtual-assistant-quali-t-remote
 - **[75 HIGH] Operations Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/efed1cb6-3bd0-4153-ad34-c4ad769af981
-- **[72 HIGH] 1167 - Marketing Assistant** -  | Worldwide
-    - https://himalayas.app/companies/gofasti/jobs/1167-marketing-assistant
-    - tools required: hubspot
 - **[63 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
     - tools required: asana
