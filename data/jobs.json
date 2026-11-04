@@ -71,7 +71,7 @@
       "clickup"
     ],
     "key": "ashby:0f8b0c84-bb4d-48b9-a6b4-a741304018f8",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Egypt",
     "match_reasons": [
       "calendar",
@@ -98,7 +98,7 @@
       "hubspot"
     ],
     "key": "ashby:115bc71e-68c8-47dc-a353-048916bcc5cf",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -268,7 +268,7 @@
       "clickup"
     ],
     "key": "ashby:25326a69-866d-413d-ab92-33cc48d2eb5b",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Remote",
     "match_reasons": [
       "calendar",
@@ -570,7 +570,7 @@
     "salary": "",
     "score": 36,
     "source": "ashby",
-    "status": "new",
+    "status": "stale",
     "title": "Customer Service Representative",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/627cf897-de15-4aaa-8cd9-922d9fd27fa5"
   },
@@ -683,7 +683,7 @@
     "first_seen": "2026-08-26",
     "gaps": [],
     "key": "ashby:88af47a8-f537-418d-85a8-fe31b603e176",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -1015,7 +1015,7 @@
       "clickup"
     ],
     "key": "ashby:ac414845-a654-4b65-8d0b-f12b3e9bd602",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -1097,6 +1097,32 @@
     "status": "stale",
     "title": "Sales Manager",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/bde86a5f-e2ea-4d33-a033-3121eb1a0bf0"
+  },
+  "ashby:c68d590f-4797-4a5f-8a54-4aa0eef76bcf": {
+    "company": "scale Army Careers",
+    "cover_letter": false,
+    "first_seen": "2026-11-04",
+    "gaps": [],
+    "key": "ashby:c68d590f-4797-4a5f-8a54-4aa0eef76bcf",
+    "last_seen": "2026-11-04",
+    "location": "Egypt",
+    "match_reasons": [
+      "scheduling",
+      "documentation",
+      "coordination",
+      "administrative",
+      "organization",
+      "chat",
+      "google workspace",
+      "reliable"
+    ],
+    "published": "2026-11-04T18:21:39.146+00:00",
+    "salary": "",
+    "score": 48,
+    "source": "ashby",
+    "status": "new",
+    "title": "Marketing Operations & Automation Specialist",
+    "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/c68d590f-4797-4a5f-8a54-4aa0eef76bcf"
   },
   "ashby:c7161b6f-5f12-4a32-ab69-318ecf87caf9": {
     "company": "scale Army Careers",
@@ -1189,7 +1215,7 @@
       "zoom"
     ],
     "key": "ashby:dc153751-8870-4ef4-8845-e8779b2ca2c2",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Egypt",
     "match_reasons": [
       "title~executive assistant",
@@ -1306,7 +1332,7 @@
     "first_seen": "2026-10-15",
     "gaps": [],
     "key": "ashby:efed1cb6-3bd0-4153-ad34-c4ad769af981",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Egypt",
     "match_reasons": [
       "title~operations assistant",
@@ -1363,7 +1389,7 @@
       "shopify"
     ],
     "key": "ashby:f0a60e29-3ae5-41b2-b638-b4c6de930559",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Egypt",
     "match_reasons": [
       "calendar",
@@ -1739,7 +1765,7 @@
       "hubspot"
     ],
     "key": "remoteok:1137381",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "",
     "match_reasons": [
       "virtual assistant",
@@ -1816,7 +1842,7 @@
     "first_seen": "2026-10-12",
     "gaps": [],
     "key": "remoteok:1137479",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "",
     "match_reasons": [
       "virtual assistant",
@@ -1845,7 +1871,7 @@
       "quickbooks"
     ],
     "key": "remotive:1680495",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Worldwide",
     "match_reasons": [
       "assistant",
@@ -2109,7 +2135,7 @@
     "first_seen": "2026-10-19",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Anywhere in the World",
     "match_reasons": [
       "email",
@@ -2136,7 +2162,7 @@
     "first_seen": "2026-10-28",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Anywhere in the World",
     "match_reasons": [
       "calendar",
@@ -2190,7 +2216,7 @@
       "hubspot"
     ],
     "key": "wwr:https://weworkremotely.com/remote-jobs/huble-technical-crm-project-manager-french-speaking",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Anywhere in the World",
     "match_reasons": [
       "scheduling",
@@ -2278,7 +2304,7 @@
       "quickbooks"
     ],
     "key": "wwr:https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
     "location": "Anywhere in the World",
     "match_reasons": [
       "email",
