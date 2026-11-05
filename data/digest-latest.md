@@ -1,10 +1,10 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-04)
+# Fabrizio - Job Pipeline - daily digest (2026-11-05)
 
 ## New other matches (1)
-- **[48 match] Marketing Operations & Automation Specialist** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/c68d590f-4797-4a5f-8a54-4aa0eef76bcf
+- **[42 match] Digital Marketing & Content Specialist** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/18c7c0d8-fd86-49cb-8209-f07d22ab5e85
 
-## Still open - not yet applied (23)
+## Still open - not yet applied (21)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
@@ -18,11 +18,10 @@
 - **[60 HIGH] Remote Office Assistant** - Coalition Technologies  | Worldwide | $31,2k- $52k
     - https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
     - tools required: shopify, quickbooks
-- **[57 HIGH] Virtual Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/c986454c-0708-43b2-adaa-88e778b32e85
-    - tools required: clickup
 - **[57 HIGH] Academic Dean for MiaPrep Online Academy of Ohio** - Miaplaza | 40-48 USD
     - https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479
+- **[48 match] Marketing Operations & Automation Specialist** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/c68d590f-4797-4a5f-8a54-4aa0eef76bcf
 - **[48 match] Marketing Student Assistant** - Copenhagen Optimization
     - https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381
     - tools required: hubspot
@@ -33,15 +32,9 @@
     - tools required: hubspot, clickup
 - **[42 match] Customer Onboarding Specialist for Company Incorporations (Full Time)** - Flag Theory | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3
-- **[39 match] Marketing and AI Project Manager** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/0185d2bb-5573-4790-9a50-4782e9fa6b7f
-    - tools required: asana, monday.com, clickup
 - **[39 match] Operations Coordinator** - marcohire | Remote
     - https://jobs.ashbyhq.com/marcohire/25326a69-866d-413d-ab92-33cc48d2eb5b
     - tools required: asana, clickup
-- **[39 match] Creative Resource Manager** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/4366b18a-6d0d-4537-8e0b-ec15fbf62a39
-    - tools required: asana, monday.com, clickup
 - **[39 match] Full-Cycle Marketing Generalist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/88af47a8-f537-418d-85a8-fe31b603e176
 - **[39 match] Webflow Project Manager** - scale Army Careers | Egypt
