@@ -1,10 +1,10 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-05)
+# Fabrizio - Job Pipeline - daily digest (2026-11-06)
 
 ## New other matches (1)
-- **[42 match] Digital Marketing & Content Specialist** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/18c7c0d8-fd86-49cb-8209-f07d22ab5e85
+- **[51 HIGH] MEDICAL VIRTUAL ASSISTANT** - Vital Virtuals Global HR Solutions LLC | Latin America Only
+    - https://weworkremotely.com/remote-jobs/vital-virtuals-global-hr-solutions-llc-medical-virtual-assistant
 
-## Still open - not yet applied (21)
+## Still open - not yet applied (22)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
@@ -30,6 +30,8 @@
 - **[42 match] Digital Marketing Specialist & Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/0f8b0c84-bb4d-48b9-a6b4-a741304018f8
     - tools required: hubspot, clickup
+- **[42 match] Digital Marketing & Content Specialist** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/scale%20Army%20Careers/18c7c0d8-fd86-49cb-8209-f07d22ab5e85
 - **[42 match] Customer Onboarding Specialist for Company Incorporations (Full Time)** - Flag Theory | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3
 - **[39 match] Operations Coordinator** - marcohire | Remote
