@@ -1,10 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-06)
+# Fabrizio - Job Pipeline - daily digest (2026-11-09)
 
-## New other matches (1)
-- **[51 HIGH] MEDICAL VIRTUAL ASSISTANT** - Vital Virtuals Global HR Solutions LLC | Latin America Only
-    - https://weworkremotely.com/remote-jobs/vital-virtuals-global-hr-solutions-llc-medical-virtual-assistant
+_No new matches today. Existing open roles below._
 
-## Still open - not yet applied (22)
+## Still open - not yet applied (21)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
@@ -12,14 +10,13 @@
     - https://www.getonbrd.com/jobs/virtual-assistant-quali-t-remote
 - **[75 HIGH] Operations Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/efed1cb6-3bd0-4153-ad34-c4ad769af981
-- **[63 HIGH] IT Operations Coordinator** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/179cb82d-d21d-46c2-87e9-69492a4ec03a
-    - tools required: asana
 - **[60 HIGH] Remote Office Assistant** - Coalition Technologies  | Worldwide | $31,2k- $52k
     - https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
     - tools required: shopify, quickbooks
 - **[57 HIGH] Academic Dean for MiaPrep Online Academy of Ohio** - Miaplaza | 40-48 USD
     - https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479
+- **[51 HIGH] MEDICAL VIRTUAL ASSISTANT** - Vital Virtuals Global HR Solutions LLC | Latin America Only
+    - https://weworkremotely.com/remote-jobs/vital-virtuals-global-hr-solutions-llc-medical-virtual-assistant
 - **[48 match] Marketing Operations & Automation Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/c68d590f-4797-4a5f-8a54-4aa0eef76bcf
 - **[48 match] Marketing Student Assistant** - Copenhagen Optimization
@@ -45,8 +42,6 @@
 - **[39 match] Digital Marketing Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/f0a60e29-3ae5-41b2-b638-b4c6de930559
     - tools required: shopify
-- **[39 match] Business Services Team Manager** - Canonical | Anywhere
-    - https://jobicy.com/jobs/156580-business-services-team-manager
 - **[39 match] Billing Support Analyst - Philippines** - Mixmax | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines
     - tools required: salesforce, zendesk, intercom, quickbooks
