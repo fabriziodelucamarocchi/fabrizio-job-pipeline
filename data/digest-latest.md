@@ -1,17 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-10)
+# Fabrizio - Job Pipeline - daily digest (2026-11-11)
 
-## New other matches (3)
-- **[42 match] HIL Support Specialist** - Extend Your Team
-    - https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711
-    - tools required: asana, slack, zendesk
-- **[42 match] Charter Sales Representative** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/Scale%20Army%20Careers/23b910d3-9c3f-42cf-b4ea-0cbf3a8c8619
-    - tools required: asana, zoom, microsoft teams
-- **[36 match] Telehealth Endocrinologist Evenings Fridays and or Weekends** - Allara
-    - https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709
-    - tools required: zoom
+_No new matches today. Existing open roles below._
 
-## Still open - not yet applied (20)
+## Still open - not yet applied (23)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
@@ -38,6 +29,12 @@
     - tools required: hubspot, clickup
 - **[42 match] Digital Marketing & Content Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/18c7c0d8-fd86-49cb-8209-f07d22ab5e85
+- **[42 match] Charter Sales Representative** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/Scale%20Army%20Careers/23b910d3-9c3f-42cf-b4ea-0cbf3a8c8619
+    - tools required: asana, zoom, microsoft teams
+- **[42 match] HIL Support Specialist** - Extend Your Team
+    - https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711
+    - tools required: asana, slack, zendesk
 - **[42 match] Customer Onboarding Specialist for Company Incorporations (Full Time)** - Flag Theory | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3
 - **[39 match] Operations Coordinator** - marcohire | Remote
@@ -60,6 +57,9 @@
 - **[36 match] Mid-Junior PPC Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/1e112ec6-90ec-4c6e-a557-6de6510f06ae
     - tools required: asana, slack, hubspot, salesforce
+- **[36 match] Telehealth Endocrinologist Evenings Fridays and or Weekends** - Allara
+    - https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709
+    - tools required: zoom
 - **[36 match] Technical CRM Project Manager (French Speaking)** - Huble | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/huble-technical-crm-project-manager-french-speaking
     - tools required: hubspot

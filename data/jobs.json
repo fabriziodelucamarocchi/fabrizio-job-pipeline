@@ -71,7 +71,7 @@
       "clickup"
     ],
     "key": "ashby:0f8b0c84-bb4d-48b9-a6b4-a741304018f8",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Egypt",
     "match_reasons": [
       "calendar",
@@ -98,7 +98,7 @@
       "hubspot"
     ],
     "key": "ashby:115bc71e-68c8-47dc-a353-048916bcc5cf",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -156,7 +156,7 @@
     "first_seen": "2026-11-05",
     "gaps": [],
     "key": "ashby:18c7c0d8-fd86-49cb-8209-f07d22ab5e85",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -293,7 +293,7 @@
       "microsoft teams"
     ],
     "key": "ashby:23b910d3-9c3f-42cf-b4ea-0cbf3a8c8619",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -321,7 +321,7 @@
       "clickup"
     ],
     "key": "ashby:25326a69-866d-413d-ab92-33cc48d2eb5b",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Remote",
     "match_reasons": [
       "calendar",
@@ -1068,7 +1068,7 @@
       "clickup"
     ],
     "key": "ashby:ac414845-a654-4b65-8d0b-f12b3e9bd602",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -1157,7 +1157,7 @@
     "first_seen": "2026-11-04",
     "gaps": [],
     "key": "ashby:c68d590f-4797-4a5f-8a54-4aa0eef76bcf",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -1442,7 +1442,7 @@
       "shopify"
     ],
     "key": "ashby:f0a60e29-3ae5-41b2-b638-b4c6de930559",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Egypt",
     "match_reasons": [
       "calendar",
@@ -1818,7 +1818,7 @@
       "hubspot"
     ],
     "key": "remoteok:1137381",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "",
     "match_reasons": [
       "virtual assistant",
@@ -1895,7 +1895,7 @@
     "first_seen": "2026-10-12",
     "gaps": [],
     "key": "remoteok:1137479",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "",
     "match_reasons": [
       "virtual assistant",
@@ -1923,7 +1923,7 @@
       "zoom"
     ],
     "key": "remoteok:1137709",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "",
     "match_reasons": [
       "scheduling",
@@ -1950,7 +1950,7 @@
       "zendesk"
     ],
     "key": "remoteok:1137711",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "",
     "match_reasons": [
       "email",
@@ -1980,7 +1980,7 @@
       "quickbooks"
     ],
     "key": "remotive:1680495",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Worldwide",
     "match_reasons": [
       "assistant",
@@ -2244,7 +2244,7 @@
     "first_seen": "2026-10-19",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Anywhere in the World",
     "match_reasons": [
       "email",
@@ -2271,7 +2271,7 @@
     "first_seen": "2026-10-28",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Anywhere in the World",
     "match_reasons": [
       "calendar",
@@ -2325,7 +2325,7 @@
       "hubspot"
     ],
     "key": "wwr:https://weworkremotely.com/remote-jobs/huble-technical-crm-project-manager-french-speaking",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Anywhere in the World",
     "match_reasons": [
       "scheduling",
@@ -2625,7 +2625,7 @@
     "first_seen": "2026-11-06",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/vital-virtuals-global-hr-solutions-llc-medical-virtual-assistant",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "location": "Latin America Only",
     "match_reasons": [
       "title~virtual assistant",
