@@ -71,7 +71,7 @@
       "clickup"
     ],
     "key": "ashby:0f8b0c84-bb4d-48b9-a6b4-a741304018f8",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "Egypt",
     "match_reasons": [
       "calendar",
@@ -98,7 +98,7 @@
       "hubspot"
     ],
     "key": "ashby:115bc71e-68c8-47dc-a353-048916bcc5cf",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -293,7 +293,7 @@
       "microsoft teams"
     ],
     "key": "ashby:23b910d3-9c3f-42cf-b4ea-0cbf3a8c8619",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -321,7 +321,7 @@
       "clickup"
     ],
     "key": "ashby:25326a69-866d-413d-ab92-33cc48d2eb5b",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "Remote",
     "match_reasons": [
       "calendar",
@@ -1068,7 +1068,7 @@
       "clickup"
     ],
     "key": "ashby:ac414845-a654-4b65-8d0b-f12b3e9bd602",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -1157,7 +1157,7 @@
     "first_seen": "2026-11-04",
     "gaps": [],
     "key": "ashby:c68d590f-4797-4a5f-8a54-4aa0eef76bcf",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -1818,7 +1818,7 @@
       "hubspot"
     ],
     "key": "remoteok:1137381",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "",
     "match_reasons": [
       "virtual assistant",
@@ -1895,7 +1895,7 @@
     "first_seen": "2026-10-12",
     "gaps": [],
     "key": "remoteok:1137479",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "",
     "match_reasons": [
       "virtual assistant",
@@ -1923,7 +1923,7 @@
       "zoom"
     ],
     "key": "remoteok:1137709",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "",
     "match_reasons": [
       "scheduling",
@@ -1950,7 +1950,7 @@
       "zendesk"
     ],
     "key": "remoteok:1137711",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "",
     "match_reasons": [
       "email",
@@ -2244,7 +2244,7 @@
     "first_seen": "2026-10-19",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "Anywhere in the World",
     "match_reasons": [
       "email",
@@ -2271,7 +2271,7 @@
     "first_seen": "2026-10-28",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "Anywhere in the World",
     "match_reasons": [
       "calendar",
@@ -2485,6 +2485,30 @@
     "title": "Customer Support Associate (Remote)",
     "url": "https://weworkremotely.com/remote-jobs/squarespace-customer-support-associate-remote"
   },
+  "wwr:https://weworkremotely.com/remote-jobs/stayd-collective-cleaning-operations-coordinator": {
+    "company": "Stayd Collective",
+    "cover_letter": false,
+    "first_seen": "2026-11-12",
+    "gaps": [],
+    "key": "wwr:https://weworkremotely.com/remote-jobs/stayd-collective-cleaning-operations-coordinator",
+    "last_seen": "2026-11-12",
+    "location": "Latin America Only",
+    "match_reasons": [
+      "scheduling",
+      "email",
+      "coordination",
+      "written english",
+      "written",
+      "reliable"
+    ],
+    "published": "Thu, 12 Nov 2026 17:02:20 +0000",
+    "salary": "",
+    "score": 42,
+    "source": "wwr",
+    "status": "new",
+    "title": "Cleaning Operations Coordinator",
+    "url": "https://weworkremotely.com/remote-jobs/stayd-collective-cleaning-operations-coordinator"
+  },
   "wwr:https://weworkremotely.com/remote-jobs/storyblok-ai-operations-automation-manager-europe-latam": {
     "company": "Storyblok",
     "cover_letter": false,
@@ -2625,7 +2649,7 @@
     "first_seen": "2026-11-06",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/vital-virtuals-global-hr-solutions-llc-medical-virtual-assistant",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
     "location": "Latin America Only",
     "match_reasons": [
       "title~virtual assistant",

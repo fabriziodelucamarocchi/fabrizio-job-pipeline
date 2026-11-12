@@ -1,6 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-11)
+# Fabrizio - Job Pipeline - daily digest (2026-11-12)
 
-_No new matches today. Existing open roles below._
+## New other matches (1)
+- **[42 match] Cleaning Operations Coordinator** - Stayd Collective | Latin America Only
+    - https://weworkremotely.com/remote-jobs/stayd-collective-cleaning-operations-coordinator
 
 ## Still open - not yet applied (23)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
