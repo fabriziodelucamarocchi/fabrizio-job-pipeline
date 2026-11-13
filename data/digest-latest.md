@@ -1,8 +1,6 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-12)
+# Fabrizio - Job Pipeline - daily digest (2026-11-13)
 
-## New other matches (1)
-- **[42 match] Cleaning Operations Coordinator** - Stayd Collective | Latin America Only
-    - https://weworkremotely.com/remote-jobs/stayd-collective-cleaning-operations-coordinator
+_No new matches today. Existing open roles below._
 
 ## Still open - not yet applied (23)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
@@ -39,6 +37,8 @@
     - tools required: asana, slack, zendesk
 - **[42 match] Customer Onboarding Specialist for Company Incorporations (Full Time)** - Flag Theory | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3
+- **[42 match] Cleaning Operations Coordinator** - Stayd Collective | Latin America Only
+    - https://weworkremotely.com/remote-jobs/stayd-collective-cleaning-operations-coordinator
 - **[39 match] Operations Coordinator** - marcohire | Remote
     - https://jobs.ashbyhq.com/marcohire/25326a69-866d-413d-ab92-33cc48d2eb5b
     - tools required: asana, clickup
@@ -56,9 +56,6 @@
 - **[36 match] Lead Generation Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/115bc71e-68c8-47dc-a353-048916bcc5cf
     - tools required: hubspot
-- **[36 match] Mid-Junior PPC Specialist** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/1e112ec6-90ec-4c6e-a557-6de6510f06ae
-    - tools required: asana, slack, hubspot, salesforce
 - **[36 match] Telehealth Endocrinologist Evenings Fridays and or Weekends** - Allara
     - https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709
     - tools required: zoom
