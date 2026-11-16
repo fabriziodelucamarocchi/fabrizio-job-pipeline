@@ -1,13 +1,14 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-13)
+# Fabrizio - Job Pipeline - daily digest (2026-11-16)
 
-_No new matches today. Existing open roles below._
+## New other matches (1)
+- **[45 match] Property Operations Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/Scale%20Army%20Careers/bd3d2c02-f67e-4d54-83bd-ae6b9694b9fc
+    - tools required: asana
 
-## Still open - not yet applied (23)
+## Still open - not yet applied (22)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
-- **[81 HIGH] Construction Virtual Assistant** -  | Latin America Remote | 700-1000 USD
-    - https://www.getonbrd.com/jobs/virtual-assistant-quali-t-remote
 - **[75 HIGH] Operations Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/efed1cb6-3bd0-4153-ad34-c4ad769af981
 - **[60 HIGH] Remote Office Assistant** - Coalition Technologies  | Worldwide | $31,2k- $52k
