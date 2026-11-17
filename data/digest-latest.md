@@ -1,11 +1,8 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-16)
+# Fabrizio - Job Pipeline - daily digest (2026-11-17)
 
-## New other matches (1)
-- **[45 match] Property Operations Coordinator** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/Scale%20Army%20Careers/bd3d2c02-f67e-4d54-83bd-ae6b9694b9fc
-    - tools required: asana
+_No new matches today. Existing open roles below._
 
-## Still open - not yet applied (22)
+## Still open - not yet applied (23)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
@@ -25,6 +22,9 @@
     - tools required: hubspot
 - **[48 match] Operations Support Specialist** - Evolve Peptides | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist
+- **[45 match] Property Operations Coordinator** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/Scale%20Army%20Careers/bd3d2c02-f67e-4d54-83bd-ae6b9694b9fc
+    - tools required: asana
 - **[42 match] Digital Marketing Specialist & Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/0f8b0c84-bb4d-48b9-a6b4-a741304018f8
     - tools required: hubspot, clickup
