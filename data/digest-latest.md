@@ -1,4 +1,4 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-17)
+# Fabrizio - Job Pipeline - daily digest (2026-11-18)
 
 _No new matches today. Existing open roles below._
 
