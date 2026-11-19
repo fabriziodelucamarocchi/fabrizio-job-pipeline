@@ -1,13 +1,13 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-18)
+# Fabrizio - Job Pipeline - daily digest (2026-11-19)
 
-_No new matches today. Existing open roles below._
+## New other matches (1)
+- **[45 match] Admin Assistant** - scale Army Careers | Argentina
+    - https://jobs.ashbyhq.com/Scale%20Army%20Careers/15ceac8a-d9b5-41fb-bfca-b018a0abfb0c
 
-## Still open - not yet applied (23)
+## Still open - not yet applied (21)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
-- **[75 HIGH] Operations Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/efed1cb6-3bd0-4153-ad34-c4ad769af981
 - **[60 HIGH] Remote Office Assistant** - Coalition Technologies  | Worldwide | $31,2k- $52k
     - https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
     - tools required: shopify, quickbooks
@@ -43,8 +43,6 @@ _No new matches today. Existing open roles below._
 - **[39 match] Operations Coordinator** - marcohire | Remote
     - https://jobs.ashbyhq.com/marcohire/25326a69-866d-413d-ab92-33cc48d2eb5b
     - tools required: asana, clickup
-- **[39 match] Full-Cycle Marketing Generalist** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/88af47a8-f537-418d-85a8-fe31b603e176
 - **[39 match] Webflow Project Manager** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/ac414845-a654-4b65-8d0b-f12b3e9bd602
     - tools required: asana, clickup

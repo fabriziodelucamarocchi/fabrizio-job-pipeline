@@ -71,7 +71,7 @@
       "clickup"
     ],
     "key": "ashby:0f8b0c84-bb4d-48b9-a6b4-a741304018f8",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "Egypt",
     "match_reasons": [
       "calendar",
@@ -98,7 +98,7 @@
       "hubspot"
     ],
     "key": "ashby:115bc71e-68c8-47dc-a353-048916bcc5cf",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -116,6 +116,34 @@
     "status": "new",
     "title": "Lead Generation Specialist",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/115bc71e-68c8-47dc-a353-048916bcc5cf"
+  },
+  "ashby:15ceac8a-d9b5-41fb-bfca-b018a0abfb0c": {
+    "company": "scale Army Careers",
+    "cover_letter": false,
+    "first_seen": "2026-11-19",
+    "gaps": [],
+    "key": "ashby:15ceac8a-d9b5-41fb-bfca-b018a0abfb0c",
+    "last_seen": "2026-11-19",
+    "location": "Argentina",
+    "match_reasons": [
+      "assistant",
+      "scheduling",
+      "documentation",
+      "coordination",
+      "administrative",
+      "organization",
+      "data entry",
+      "google workspace",
+      "reliable",
+      "-12:phone calls"
+    ],
+    "published": "2026-11-18T20:06:43.730+00:00",
+    "salary": "",
+    "score": 45,
+    "source": "ashby",
+    "status": "new",
+    "title": "Admin Assistant",
+    "url": "https://jobs.ashbyhq.com/Scale%20Army%20Careers/15ceac8a-d9b5-41fb-bfca-b018a0abfb0c"
   },
   "ashby:179cb82d-d21d-46c2-87e9-69492a4ec03a": {
     "company": "scale Army Careers",
@@ -293,7 +321,7 @@
       "microsoft teams"
     ],
     "key": "ashby:23b910d3-9c3f-42cf-b4ea-0cbf3a8c8619",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -321,7 +349,7 @@
       "clickup"
     ],
     "key": "ashby:25326a69-866d-413d-ab92-33cc48d2eb5b",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "Remote",
     "match_reasons": [
       "calendar",
@@ -749,7 +777,7 @@
     "salary": "",
     "score": 39,
     "source": "ashby",
-    "status": "new",
+    "status": "stale",
     "title": "Full-Cycle Marketing Generalist",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/88af47a8-f537-418d-85a8-fe31b603e176"
   },
@@ -1068,7 +1096,7 @@
       "clickup"
     ],
     "key": "ashby:ac414845-a654-4b65-8d0b-f12b3e9bd602",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -1133,7 +1161,7 @@
       "asana"
     ],
     "key": "ashby:bd3d2c02-f67e-4d54-83bd-ae6b9694b9fc",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "Egypt",
     "match_reasons": [
       "assistant",
@@ -1185,7 +1213,7 @@
     "first_seen": "2026-11-04",
     "gaps": [],
     "key": "ashby:c68d590f-4797-4a5f-8a54-4aa0eef76bcf",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -1430,7 +1458,7 @@
     "salary": "",
     "score": 75,
     "source": "ashby",
-    "status": "new",
+    "status": "stale",
     "title": "Operations Assistant",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/efed1cb6-3bd0-4153-ad34-c4ad769af981"
   },
@@ -1846,7 +1874,7 @@
       "hubspot"
     ],
     "key": "remoteok:1137381",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "",
     "match_reasons": [
       "virtual assistant",
@@ -1923,7 +1951,7 @@
     "first_seen": "2026-10-12",
     "gaps": [],
     "key": "remoteok:1137479",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "",
     "match_reasons": [
       "virtual assistant",
@@ -1951,7 +1979,7 @@
       "zoom"
     ],
     "key": "remoteok:1137709",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "",
     "match_reasons": [
       "scheduling",
@@ -1978,7 +2006,7 @@
       "zendesk"
     ],
     "key": "remoteok:1137711",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "",
     "match_reasons": [
       "email",
@@ -2008,7 +2036,7 @@
       "quickbooks"
     ],
     "key": "remotive:1680495",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "Worldwide",
     "match_reasons": [
       "assistant",
@@ -2299,7 +2327,7 @@
     "first_seen": "2026-10-28",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "Anywhere in the World",
     "match_reasons": [
       "calendar",
@@ -2519,7 +2547,7 @@
     "first_seen": "2026-11-12",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/stayd-collective-cleaning-operations-coordinator",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "location": "Latin America Only",
     "match_reasons": [
       "scheduling",
