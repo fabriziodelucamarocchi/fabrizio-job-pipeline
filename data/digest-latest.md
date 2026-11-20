@@ -1,8 +1,6 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-19)
+# Fabrizio - Job Pipeline - daily digest (2026-11-20)
 
-## New other matches (1)
-- **[45 match] Admin Assistant** - scale Army Careers | Argentina
-    - https://jobs.ashbyhq.com/Scale%20Army%20Careers/15ceac8a-d9b5-41fb-bfca-b018a0abfb0c
+_No new matches today. Existing open roles below._
 
 ## Still open - not yet applied (21)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
@@ -22,6 +20,8 @@
     - tools required: hubspot
 - **[48 match] Operations Support Specialist** - Evolve Peptides | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist
+- **[45 match] Admin Assistant** - scale Army Careers | Argentina
+    - https://jobs.ashbyhq.com/Scale%20Army%20Careers/15ceac8a-d9b5-41fb-bfca-b018a0abfb0c
 - **[45 match] Property Operations Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/Scale%20Army%20Careers/bd3d2c02-f67e-4d54-83bd-ae6b9694b9fc
     - tools required: asana
@@ -49,9 +49,6 @@
 - **[39 match] Digital Marketing Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/f0a60e29-3ae5-41b2-b638-b4c6de930559
     - tools required: shopify
-- **[39 match] Billing Support Analyst - Philippines** - Mixmax | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines
-    - tools required: salesforce, zendesk, intercom, quickbooks
 - **[36 match] Lead Generation Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/115bc71e-68c8-47dc-a353-048916bcc5cf
     - tools required: hubspot
