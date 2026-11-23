@@ -1,8 +1,21 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-20)
+# Fabrizio - Job Pipeline - daily digest (2026-11-23)
 
-_No new matches today. Existing open roles below._
+## New HIGH matches (1)
+- **[78 HIGH] Executive Assistant** - Maven Clinic | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant
+    - tools required: slack
 
-## Still open - not yet applied (21)
+## New other matches (3)
+- **[48 match] Paralegal** - Tines | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/tines-paralegal
+    - tools required: intercom
+- **[42 match] International People Ops Analyst, Benefits** - Cribl | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/cribl-international-people-ops-analyst-benefits
+    - tools required: slack, jira
+- **[42 match] Estimator / Admin Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/Scale%20Army%20Careers/79d3a011-df93-44be-a6cd-14a00d012b57
+
+## Still open - not yet applied (22)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
@@ -49,6 +62,8 @@ _No new matches today. Existing open roles below._
 - **[39 match] Digital Marketing Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/f0a60e29-3ae5-41b2-b638-b4c6de930559
     - tools required: shopify
+- **[39 match] Business Services Team Manager** - Canonical | Anywhere
+    - https://jobicy.com/jobs/156580-business-services-team-manager
 - **[36 match] Lead Generation Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/115bc71e-68c8-47dc-a353-048916bcc5cf
     - tools required: hubspot

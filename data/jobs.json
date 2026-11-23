@@ -71,7 +71,7 @@
       "clickup"
     ],
     "key": "ashby:0f8b0c84-bb4d-48b9-a6b4-a741304018f8",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "location": "Egypt",
     "match_reasons": [
       "calendar",
@@ -98,7 +98,7 @@
       "hubspot"
     ],
     "key": "ashby:115bc71e-68c8-47dc-a353-048916bcc5cf",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -123,7 +123,7 @@
     "first_seen": "2026-11-19",
     "gaps": [],
     "key": "ashby:15ceac8a-d9b5-41fb-bfca-b018a0abfb0c",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "location": "Argentina",
     "match_reasons": [
       "assistant",
@@ -321,7 +321,7 @@
       "microsoft teams"
     ],
     "key": "ashby:23b910d3-9c3f-42cf-b4ea-0cbf3a8c8619",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -349,7 +349,7 @@
       "clickup"
     ],
     "key": "ashby:25326a69-866d-413d-ab92-33cc48d2eb5b",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "location": "Remote",
     "match_reasons": [
       "calendar",
@@ -678,6 +678,31 @@
     "status": "stale",
     "title": "Manhattan WMS Specialist",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/67b3f164-fb8b-4afe-90c9-54d3b6ee7a36"
+  },
+  "ashby:79d3a011-df93-44be-a6cd-14a00d012b57": {
+    "company": "scale Army Careers",
+    "cover_letter": false,
+    "first_seen": "2026-11-23",
+    "gaps": [],
+    "key": "ashby:79d3a011-df93-44be-a6cd-14a00d012b57",
+    "last_seen": "2026-11-23",
+    "location": "Egypt",
+    "match_reasons": [
+      "assistant",
+      "email",
+      "documentation",
+      "coordination",
+      "administrative",
+      "organization",
+      "excel"
+    ],
+    "published": "2026-11-22T20:16:30.150+00:00",
+    "salary": "",
+    "score": 42,
+    "source": "ashby",
+    "status": "new",
+    "title": "Estimator / Admin Assistant",
+    "url": "https://jobs.ashbyhq.com/Scale%20Army%20Careers/79d3a011-df93-44be-a6cd-14a00d012b57"
   },
   "ashby:7fea17b7-301e-4735-a745-9f61d5d3e05d": {
     "company": "scale Army Careers",
@@ -1096,7 +1121,7 @@
       "clickup"
     ],
     "key": "ashby:ac414845-a654-4b65-8d0b-f12b3e9bd602",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -1161,7 +1186,7 @@
       "asana"
     ],
     "key": "ashby:bd3d2c02-f67e-4d54-83bd-ae6b9694b9fc",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "location": "Egypt",
     "match_reasons": [
       "assistant",
@@ -1213,7 +1238,7 @@
     "first_seen": "2026-11-04",
     "gaps": [],
     "key": "ashby:c68d590f-4797-4a5f-8a54-4aa0eef76bcf",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -1848,7 +1873,7 @@
     "first_seen": "2026-10-23",
     "gaps": [],
     "key": "jobicy:156580",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-23",
     "location": "Anywhere",
     "match_reasons": [
       "personal assistant",
@@ -1862,7 +1887,7 @@
     "salary": "",
     "score": 39,
     "source": "jobicy",
-    "status": "stale",
+    "status": "reopened",
     "title": "Business Services Team Manager",
     "url": "https://jobicy.com/jobs/156580-business-services-team-manager"
   },
@@ -2036,7 +2061,7 @@
       "quickbooks"
     ],
     "key": "remotive:1680495",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "location": "Worldwide",
     "match_reasons": [
       "assistant",
@@ -2220,6 +2245,34 @@
     "title": "Operations Manager, Bermuda",
     "url": "https://weworkremotely.com/remote-jobs/coinbase-operations-manager-bermuda"
   },
+  "wwr:https://weworkremotely.com/remote-jobs/cribl-international-people-ops-analyst-benefits": {
+    "company": "Cribl",
+    "cover_letter": false,
+    "first_seen": "2026-11-23",
+    "gaps": [
+      "slack",
+      "jira"
+    ],
+    "key": "wwr:https://weworkremotely.com/remote-jobs/cribl-international-people-ops-analyst-benefits",
+    "last_seen": "2026-11-23",
+    "location": "Anywhere in the World",
+    "match_reasons": [
+      "documentation",
+      "coordination",
+      "organization",
+      "async",
+      "asynchronous",
+      "google workspace",
+      "slack"
+    ],
+    "published": "Mon, 23 Nov 2026 06:02:10 +0000",
+    "salary": "",
+    "score": 42,
+    "source": "wwr",
+    "status": "new",
+    "title": "International People Ops Analyst, Benefits",
+    "url": "https://weworkremotely.com/remote-jobs/cribl-international-people-ops-analyst-benefits"
+  },
   "wwr:https://weworkremotely.com/remote-jobs/davita-sr-manager-crm-operations": {
     "company": "DaVita",
     "cover_letter": false,
@@ -2327,7 +2380,7 @@
     "first_seen": "2026-10-28",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "location": "Anywhere in the World",
     "match_reasons": [
       "calendar",
@@ -2458,6 +2511,36 @@
     "title": "Senior Revenue Operations Strategist",
     "url": "https://weworkremotely.com/remote-jobs/kuno-creative-group-inc-senior-revenue-operations-strategist"
   },
+  "wwr:https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant": {
+    "company": "Maven Clinic",
+    "cover_letter": false,
+    "first_seen": "2026-11-23",
+    "gaps": [
+      "slack"
+    ],
+    "key": "wwr:https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant",
+    "last_seen": "2026-11-23",
+    "location": "Anywhere in the World",
+    "match_reasons": [
+      "title~executive assistant",
+      "executive assistant",
+      "assistant",
+      "scheduling",
+      "calendar",
+      "email",
+      "coordination",
+      "organization",
+      "travel",
+      "slack"
+    ],
+    "published": "Sun, 22 Nov 2026 18:32:30 +0000",
+    "salary": "",
+    "score": 78,
+    "source": "wwr",
+    "status": "new",
+    "title": "Executive Assistant",
+    "url": "https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant"
+  },
   "wwr:https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines": {
     "company": "Mixmax",
     "cover_letter": false,
@@ -2547,7 +2630,7 @@
     "first_seen": "2026-11-12",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/stayd-collective-cleaning-operations-coordinator",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
     "location": "Latin America Only",
     "match_reasons": [
       "scheduling",
@@ -2668,6 +2751,33 @@
     "status": "stale",
     "title": "Implementation Specialist (Variable Ops experience required)",
     "url": "https://weworkremotely.com/remote-jobs/tekion-implementation-specialist-variable-ops-experience-required"
+  },
+  "wwr:https://weworkremotely.com/remote-jobs/tines-paralegal": {
+    "company": "Tines",
+    "cover_letter": false,
+    "first_seen": "2026-11-23",
+    "gaps": [
+      "intercom"
+    ],
+    "key": "wwr:https://weworkremotely.com/remote-jobs/tines-paralegal",
+    "last_seen": "2026-11-23",
+    "location": "Anywhere in the World",
+    "match_reasons": [
+      "scheduling",
+      "calendar",
+      "calendar management",
+      "administrative",
+      "travel",
+      "notion",
+      "google workspace"
+    ],
+    "published": "Sun, 22 Nov 2026 06:02:33 +0000",
+    "salary": "",
+    "score": 48,
+    "source": "wwr",
+    "status": "new",
+    "title": "Paralegal",
+    "url": "https://weworkremotely.com/remote-jobs/tines-paralegal"
   },
   "wwr:https://weworkremotely.com/remote-jobs/twilio-manager-technical-support": {
     "company": "Twilio",
