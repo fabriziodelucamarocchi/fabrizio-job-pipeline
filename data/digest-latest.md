@@ -1,24 +1,16 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-23)
+# Fabrizio - Job Pipeline - daily digest (2026-11-24)
 
-## New HIGH matches (1)
-- **[78 HIGH] Executive Assistant** - Maven Clinic | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant
-    - tools required: slack
+## New other matches (1)
+- **[48 match] Candidate Experience Specialist, Contractor (AMER)** - GitLab | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/gitlab-candidate-experience-specialist-contractor-amer
 
-## New other matches (3)
-- **[48 match] Paralegal** - Tines | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/tines-paralegal
-    - tools required: intercom
-- **[42 match] International People Ops Analyst, Benefits** - Cribl | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/cribl-international-people-ops-analyst-benefits
-    - tools required: slack, jira
-- **[42 match] Estimator / Admin Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/Scale%20Army%20Careers/79d3a011-df93-44be-a6cd-14a00d012b57
-
-## Still open - not yet applied (22)
+## Still open - not yet applied (26)
 - **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
     - tools required: zoom
+- **[78 HIGH] Executive Assistant** - Maven Clinic | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant
+    - tools required: slack
 - **[60 HIGH] Remote Office Assistant** - Coalition Technologies  | Worldwide | $31,2k- $52k
     - https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495
     - tools required: shopify, quickbooks
@@ -33,6 +25,9 @@
     - tools required: hubspot
 - **[48 match] Operations Support Specialist** - Evolve Peptides | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist
+- **[48 match] Paralegal** - Tines | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/tines-paralegal
+    - tools required: intercom
 - **[45 match] Admin Assistant** - scale Army Careers | Argentina
     - https://jobs.ashbyhq.com/Scale%20Army%20Careers/15ceac8a-d9b5-41fb-bfca-b018a0abfb0c
 - **[45 match] Property Operations Coordinator** - scale Army Careers | Egypt
@@ -46,9 +41,14 @@
 - **[42 match] Charter Sales Representative** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/Scale%20Army%20Careers/23b910d3-9c3f-42cf-b4ea-0cbf3a8c8619
     - tools required: asana, zoom, microsoft teams
+- **[42 match] Estimator / Admin Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/Scale%20Army%20Careers/79d3a011-df93-44be-a6cd-14a00d012b57
 - **[42 match] HIL Support Specialist** - Extend Your Team
     - https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711
     - tools required: asana, slack, zendesk
+- **[42 match] International People Ops Analyst, Benefits** - Cribl | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/cribl-international-people-ops-analyst-benefits
+    - tools required: slack, jira
 - **[42 match] Customer Onboarding Specialist for Company Incorporations (Full Time)** - Flag Theory | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3
 - **[42 match] Cleaning Operations Coordinator** - Stayd Collective | Latin America Only
@@ -70,9 +70,6 @@
 - **[36 match] Telehealth Endocrinologist Evenings Fridays and or Weekends** - Allara
     - https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709
     - tools required: zoom
-- **[36 match] Technical CRM Project Manager (French Speaking)** - Huble | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/huble-technical-crm-project-manager-french-speaking
-    - tools required: hubspot
 
 ---
 _Apply-ready but nothing is sent automatically. Review, then apply yourself._
