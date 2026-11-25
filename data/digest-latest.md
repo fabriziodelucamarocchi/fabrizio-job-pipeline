@@ -1,13 +1,17 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-24)
+# Fabrizio - Job Pipeline - daily digest (2026-11-25)
+
+## New HIGH matches (2)
+- **[100 HIGH] Virtual Assistant** - scale Army Careers | Egypt
+    - https://jobs.ashbyhq.com/Scale%20Army%20Careers/003e0509-13fe-42cd-9a1f-73e4b46b8ead
+- **[81 HIGH] Executive Assistant** - LaunchDarkly | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/launchdarkly-executive-assistant
+    - tools required: slack, zoom
 
 ## New other matches (1)
-- **[48 match] Candidate Experience Specialist, Contractor (AMER)** - GitLab | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/gitlab-candidate-experience-specialist-contractor-amer
+- **[48 match] Candidate Experience Specialist, Contractor (AUS)** - GitLab | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/gitlab-candidate-experience-specialist-contractor-aus
 
 ## Still open - not yet applied (26)
-- **[100 HIGH] Executive Assistant** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/dc153751-8870-4ef4-8845-e8779b2ca2c2
-    - tools required: zoom
 - **[78 HIGH] Executive Assistant** - Maven Clinic | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant
     - tools required: slack
@@ -25,6 +29,8 @@
     - tools required: hubspot
 - **[48 match] Operations Support Specialist** - Evolve Peptides | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist
+- **[48 match] Candidate Experience Specialist, Contractor (AMER)** - GitLab | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/gitlab-candidate-experience-specialist-contractor-amer
 - **[48 match] Paralegal** - Tines | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/tines-paralegal
     - tools required: intercom
