@@ -5,7 +5,7 @@
     "first_seen": "2026-11-25",
     "gaps": [],
     "key": "ashby:003e0509-13fe-42cd-9a1f-73e4b46b8ead",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Egypt",
     "match_reasons": [
       "title~virtual assistant",
@@ -103,7 +103,7 @@
       "clickup"
     ],
     "key": "ashby:0f8b0c84-bb4d-48b9-a6b4-a741304018f8",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Egypt",
     "match_reasons": [
       "calendar",
@@ -130,7 +130,7 @@
       "hubspot"
     ],
     "key": "ashby:115bc71e-68c8-47dc-a353-048916bcc5cf",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -230,7 +230,7 @@
     "salary": "",
     "score": 42,
     "source": "ashby",
-    "status": "new",
+    "status": "stale",
     "title": "Digital Marketing & Content Specialist",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/18c7c0d8-fd86-49cb-8209-f07d22ab5e85"
   },
@@ -381,7 +381,7 @@
       "clickup"
     ],
     "key": "ashby:25326a69-866d-413d-ab92-33cc48d2eb5b",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Remote",
     "match_reasons": [
       "calendar",
@@ -717,7 +717,7 @@
     "first_seen": "2026-11-23",
     "gaps": [],
     "key": "ashby:79d3a011-df93-44be-a6cd-14a00d012b57",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Egypt",
     "match_reasons": [
       "assistant",
@@ -1153,7 +1153,7 @@
       "clickup"
     ],
     "key": "ashby:ac414845-a654-4b65-8d0b-f12b3e9bd602",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Egypt",
     "match_reasons": [
       "documentation",
@@ -1218,7 +1218,7 @@
       "asana"
     ],
     "key": "ashby:bd3d2c02-f67e-4d54-83bd-ae6b9694b9fc",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Egypt",
     "match_reasons": [
       "assistant",
@@ -1270,7 +1270,7 @@
     "first_seen": "2026-11-04",
     "gaps": [],
     "key": "ashby:c68d590f-4797-4a5f-8a54-4aa0eef76bcf",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Egypt",
     "match_reasons": [
       "scheduling",
@@ -1569,7 +1569,7 @@
     "salary": "",
     "score": 39,
     "source": "ashby",
-    "status": "new",
+    "status": "stale",
     "title": "Digital Marketing Specialist",
     "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers/f0a60e29-3ae5-41b2-b638-b4c6de930559"
   },
@@ -2093,7 +2093,7 @@
       "quickbooks"
     ],
     "key": "remotive:1680495",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Worldwide",
     "match_reasons": [
       "assistant",
@@ -2286,7 +2286,7 @@
       "jira"
     ],
     "key": "wwr:https://weworkremotely.com/remote-jobs/cribl-international-people-ops-analyst-benefits",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Anywhere in the World",
     "match_reasons": [
       "documentation",
@@ -2412,7 +2412,7 @@
     "first_seen": "2026-10-28",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Anywhere in the World",
     "match_reasons": [
       "calendar",
@@ -2464,7 +2464,7 @@
     "first_seen": "2026-11-24",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/gitlab-candidate-experience-specialist-contractor-amer",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Anywhere in the World",
     "match_reasons": [
       "scheduling",
@@ -2489,7 +2489,7 @@
     "first_seen": "2026-11-25",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/gitlab-candidate-experience-specialist-contractor-aus",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Anywhere in the World",
     "match_reasons": [
       "scheduling",
@@ -2530,7 +2530,7 @@
     "salary": "",
     "score": 36,
     "source": "wwr",
-    "status": "new",
+    "status": "stale",
     "title": "Technical CRM Project Manager (French Speaking)",
     "url": "https://weworkremotely.com/remote-jobs/huble-technical-crm-project-manager-french-speaking"
   },
@@ -2602,7 +2602,7 @@
       "zoom"
     ],
     "key": "wwr:https://weworkremotely.com/remote-jobs/launchdarkly-executive-assistant",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Anywhere in the World",
     "match_reasons": [
       "title~executive assistant",
@@ -2633,7 +2633,7 @@
       "slack"
     ],
     "key": "wwr:https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Anywhere in the World",
     "match_reasons": [
       "title~executive assistant",
@@ -2744,7 +2744,7 @@
     "first_seen": "2026-11-12",
     "gaps": [],
     "key": "wwr:https://weworkremotely.com/remote-jobs/stayd-collective-cleaning-operations-coordinator",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Latin America Only",
     "match_reasons": [
       "scheduling",
@@ -2874,7 +2874,7 @@
       "intercom"
     ],
     "key": "wwr:https://weworkremotely.com/remote-jobs/tines-paralegal",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "location": "Anywhere in the World",
     "match_reasons": [
       "scheduling",

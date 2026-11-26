@@ -1,17 +1,13 @@
-# Fabrizio - Job Pipeline - daily digest (2026-11-25)
+# Fabrizio - Job Pipeline - daily digest (2026-11-26)
 
-## New HIGH matches (2)
+_No new matches today. Existing open roles below._
+
+## Still open - not yet applied (26)
 - **[100 HIGH] Virtual Assistant** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/Scale%20Army%20Careers/003e0509-13fe-42cd-9a1f-73e4b46b8ead
 - **[81 HIGH] Executive Assistant** - LaunchDarkly | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/launchdarkly-executive-assistant
     - tools required: slack, zoom
-
-## New other matches (1)
-- **[48 match] Candidate Experience Specialist, Contractor (AUS)** - GitLab | Anywhere in the World
-    - https://weworkremotely.com/remote-jobs/gitlab-candidate-experience-specialist-contractor-aus
-
-## Still open - not yet applied (26)
 - **[78 HIGH] Executive Assistant** - Maven Clinic | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant
     - tools required: slack
@@ -31,6 +27,8 @@
     - https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist
 - **[48 match] Candidate Experience Specialist, Contractor (AMER)** - GitLab | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/gitlab-candidate-experience-specialist-contractor-amer
+- **[48 match] Candidate Experience Specialist, Contractor (AUS)** - GitLab | Anywhere in the World
+    - https://weworkremotely.com/remote-jobs/gitlab-candidate-experience-specialist-contractor-aus
 - **[48 match] Paralegal** - Tines | Anywhere in the World
     - https://weworkremotely.com/remote-jobs/tines-paralegal
     - tools required: intercom
@@ -42,8 +40,6 @@
 - **[42 match] Digital Marketing Specialist & Coordinator** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/0f8b0c84-bb4d-48b9-a6b4-a741304018f8
     - tools required: hubspot, clickup
-- **[42 match] Digital Marketing & Content Specialist** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/18c7c0d8-fd86-49cb-8209-f07d22ab5e85
 - **[42 match] Charter Sales Representative** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/Scale%20Army%20Careers/23b910d3-9c3f-42cf-b4ea-0cbf3a8c8619
     - tools required: asana, zoom, microsoft teams
@@ -65,17 +61,11 @@
 - **[39 match] Webflow Project Manager** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/ac414845-a654-4b65-8d0b-f12b3e9bd602
     - tools required: asana, clickup
-- **[39 match] Digital Marketing Specialist** - scale Army Careers | Egypt
-    - https://jobs.ashbyhq.com/scale%20Army%20Careers/f0a60e29-3ae5-41b2-b638-b4c6de930559
-    - tools required: shopify
 - **[39 match] Business Services Team Manager** - Canonical | Anywhere
     - https://jobicy.com/jobs/156580-business-services-team-manager
 - **[36 match] Lead Generation Specialist** - scale Army Careers | Egypt
     - https://jobs.ashbyhq.com/scale%20Army%20Careers/115bc71e-68c8-47dc-a353-048916bcc5cf
     - tools required: hubspot
-- **[36 match] Telehealth Endocrinologist Evenings Fridays and or Weekends** - Allara
-    - https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709
-    - tools required: zoom
 
 ---
 _Apply-ready but nothing is sent automatically. Review, then apply yourself._
